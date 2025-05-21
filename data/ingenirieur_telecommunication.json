@@ -1,0 +1,158 @@
+{
+  "ingenieur_telecommunications": {
+    "introduction": {
+      "description": "La convergence des réseaux informatiques et des télécommunications est une réalité avec la convergence des réseaux de transmission qui transportent indifféremment de la voix, des données et des images.",
+      "exemples": ["Systèmes mobiles (3G, 4G, 5G)", "Convergence vers le tout IP"],
+      "besoin": "Les industriels des télécommunications, les opérateurs de réseaux et les entreprises nécessitent des ingénieurs capables d’appréhender ces systèmes dans leur globalité.",
+      "specialite": "Télécommunications et Réseaux",
+      "competences": "Double compétence en télécommunications et réseaux informatiques"
+    },
+    "metier": {
+      "description": "Les télécommunications correspondent à la transmission et à la réception d’informations ou de données grâce à des systèmes électroniques, informatiques, filaires, optiques ou autres.",
+      "roles": [
+        "Mettre en place des moyens de communication",
+        "Travailler dans des grands groupes liés aux réseaux téléphoniques (Orange, Ooredoo, Tunisie Télécom, etc.)",
+        "Travailler dans des sociétés de conseil en ingénierie",
+        "Travailler dans les secteurs de l’aéronautique ou de l’aérospatial"
+      ]
+    },
+    "qualites_requises": [
+      "Esprit scientifique",
+      "Travail d’équipe",
+      "Attentif",
+      "Curieux"
+    ],
+    "competences": [
+      "Maîtrise des systèmes de télécommunications modernes",
+      "Expertise en électronique et systèmes d’exploitation (mobiles et ordinateurs)",
+      "Compétences en communication par téléphone fixe IP, mobile, internet et fibres optiques"
+    ],
+    "evolution_possible": {
+      "carriere_operationnelle": "Travailler sur des projets concrets",
+      "responsabilites": "Diriger une équipe",
+      "independance": "Devenir consultant indépendant pour choisir ses projets"
+    },
+    "debouches": {
+      "professionnels": ["Ingénieur d’études", "Ingénieur de développement"],
+      "academiques": ["Recherche", "Doctorat", "PhD"]
+    },
+    "plan_etudes": {
+      "semestre_1": [
+        "Mathématiques de l’ingénieur 1",
+        "Processus stochastiques",
+        "Électronique analogique",
+        "Électronique numérique",
+        "Algorithmique avancée",
+        "Programmation C",
+        "Systèmes d’exploitation avancés Linux",
+        "Systèmes et architectures avancées",
+        "Bases de données",
+        "Fondamentaux des réseaux 1",
+        "Anglais A1",
+        "Techniques de communication et Développement Personnel 1",
+        "Entrepreneuriat et finance pour les ingénieurs",
+        "ERP-CRM"
+      ],
+      "semestre_2": [
+        "Mathématiques de l’ingénieur 2",
+        "Mathématiques discrètes",
+        "Administration de bases de données",
+        "Architecture logicielle & Design patterns",
+        "Programmation orientée objets",
+        "Fondamentaux signaux et systèmes",
+        "Théorie de l’information et codage",
+        "Introduction aux communications et transmissions",
+        "Architecture des réseaux",
+        "Systèmes d’exploitation avancés Linux 2",
+        "Préparation à la certification CCNA 1 et 2",
+        "Animation d’équipe et leadership",
+        "Anglais A2",
+        "Techniques de communication et Développement Personnel 2",
+        "Droit du travail et éthique de l’ingénieur",
+        "Télécom Mini Projet",
+        "Stages d’initiation"
+      ],
+      "semestre_3": [
+        "Sécurité des systèmes d’information et des réseaux 1",
+        "Administration des systèmes Linux LPIC-1",
+        "Programmation orientée objet avancée",
+        "Langage de modélisation objet (UML)",
+        "Framework de développement Web",
+        "Protocoles de base en télécommunications",
+        "Fondamentaux des communications mobiles",
+        "Réseaux optiques de transport",
+        "Préparation à la certification CCNA 3 et 4",
+        "Stratégies Télécommunication",
+        "Lois et réglementations en télécommunications"
+      ],
+      "semestre_4": [
+        "Sécurité réseau et cryptographie avancée",
+        "Advanced Level Linux Professional LPIC-2",
+        "Internet of Things (IoT)",
+        "Intelligence Artificielle 1",
+        "Virtualisation et cloud computing",
+        "Méthodologies Agiles et Hybrides",
+        "Networked Multimedia and Services",
+        "Analyse d’images et applications",
+        "Protocole de transport en temps réel (RTP)",
+        "Signalisation et gestion de réseau avancée",
+        "Ingénierie des protocoles",
+        "Réseaux radio mobiles avancés",
+        "Certificat d’anglais d’affaires B1/B2/C1",
+        "Systèmes embarqués communicants avancés",
+        "Technologies émergentes dans les services de télécommunication",
+        "Gestion de l’innovation",
+        "Visites industrielles",
+        "Stages de perfectionnement"
+      ],
+      "semestre_5_rsm": [
+        "Systèmes radio mobiles très avancés",
+        "Gestion des ressources radio dans les systèmes cellulaires modernes",
+        "Veille technologique Internet of Things",
+        "Software Defined Networking (SDN) & Network Functions Virtualization (NFV)",
+        "Laboratoire de mesure de réseau et analyse de données",
+        "Évaluation des performances des systèmes",
+        "Réseaux de périphérie (Edge Networks)",
+        "Méthodes de recherche en Réalité Virtuelle/Augmentée et Métaverse",
+        "SOA et Cloud",
+        "Réalité virtuelle/augmentée (AR, VR) et Métaverse",
+        "Introduction to DevOps",
+        "Développement mobile hybride",
+        "Développement Web avancé",
+        "Certificat d’anglais d’affaires B1/B2/C1",
+        "Marketing des services",
+        "Project Management",
+        "Analyse de marché dans les services de télécommunication"
+      ],
+      "semestre_5_ist": [
+        "Systèmes radio mobiles très avancés",
+        "Services émergents et intelligents en télécommunication",
+        "Software Defined Networking (SDN) & Network Functions Virtualization (NFV)",
+        "Réseaux de périphérie (Edge Networks)",
+        "Méthodes de recherche en intégration des technologies Edge Computing",
+        "Développement Web et Multimédia",
+        "Développement mobile hybride",
+        "Programmation événementielle (Symfony)",
+        "Veille technologique Internet of Things",
+        "Développement mobile natif 1 (Android)",
+        "Développement mobile natif 2 (iOS)"
+      ],
+      "technologies_avancees": [
+        "Localisation, navigation et mobilité intelligente",
+        "Fundamentals of Machine Learning",
+        "Réalité virtuelle/augmentée (AR, VR) et Métaverse",
+        "Développement .Net avancé (ASP MVC)",
+        "Préparation à la certification IoT Developer Specialty",
+        "Communications quantiques",
+        "Cloud-Native 5G",
+        "Blockchain et applications dans les télécommunications",
+        "Datawarehouse & Business Intelligence",
+        "NoSQL Database Systems"
+      ]
+    },
+    "stages_pfe": {
+      "stages": "Réalisés en entreprise pour perfectionner les compétences pratiques",
+      "pfe": "Projet final permettant de mettre en œuvre les connaissances acquises"
+    }
+  }
+}

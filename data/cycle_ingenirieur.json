@@ -1,0 +1,180 @@
+{
+  "cycle_ingenieur": {
+    "titre": "Cycle Ingénieur en Informatique",
+    "cursus": {
+      "description": "La formation est subdivisée en six semestres (180 crédits).",
+      "structure": [
+        "Trois semestres de tronc commun",
+        "Deux semestres de spécialisation",
+        "Un semestre pour le Projet de Fin d’Études (PFE)"
+      ]
+    },
+    "caracteristiques": [
+      "Enseignements théoriques et pratiques",
+      "Projets réalisés en groupe",
+      "Stages obligatoires :",
+      {
+        "stages": [
+          "Stage de programmation : 6 semaines (fin de la première année)",
+          "Stage d’immersion en entreprise : 6 semaines (fin de la deuxième année)",
+          "Stage de PFE : effectué en Tunisie ou à l’étranger"
+        ]
+      },
+      "Possibilité pour certains étudiants de suivre en parallèle le Master Informatique SUPTECH (équivalences accordées par la commission de master)"
+    ],
+    "duree": {
+      "formation_classique": "3 ans",
+      "formation_cours_du_soir": "4 ans"
+    },
+    "conditions_admission": [
+      "Cycle préparatoire intégré SUPTECH",
+      "Licence informatique",
+      "Mastère informatique",
+      {
+        "concours_specifique": [
+          "En première année : Licence ou Prépa",
+          "En deuxième année : Mastère informatique ou équivalent (M1)"
+        ]
+      },
+      "Étudiants admis des instituts préparatoires aux études d’ingénieur : Réussite au concours, Admission des cycles préparatoires intégrés",
+      {
+        "quota_reserve": [
+          "Licence : Admission en première année",
+          "Mastère ou équivalent : Admission en deuxième année"
+        ]
+      }
+    ],
+    "admission": "Ouverte à tous, sans distinction de nationalité",
+    "filieres": [
+      {
+        "titre": "Ingénieur en Génie Informatique",
+        "specialisations": [
+          "Ingénierie logicielle",
+          "Ingénierie Systèmes et Réseaux",
+          "Ingénierie des connaissances (Intelligence Artificielle - IA)"
+        ]
+      },
+      {
+        "titre": "Ingénieur en Génie Télécommunication",
+        "specialisations": [
+          "Réseaux et Services Mobiles (RSM)",
+          "Ingénierie des services en Télécommunications (IST)"
+        ]
+      }
+    ],
+    "plan_etudes": {
+      "semestre_1": [
+        "Mathématiques de l’ingénieur 1 (FUN3101)",
+        "Statistique Inférentielle (FUN3102)",
+        "Développement Web et Multimédia (GIN3105)",
+        "Bases de données (GIN3106)",
+        "Synthèse et fonctions numériques (GINF3109)",
+        "Algorithmique avancée (GIN3103)",
+        "Techniques de communication et Développement Personnel 1 (ENT3101)",
+        "Techniques de communication et Développement Personnel 2 (ENT3102)",
+        "Entrepreneuriat et finance pour les ingénieurs (ENT3105)"
+      ],
+      "semestre_2": [
+        "Mathématiques de l’ingénieur 2 (FUN3201)",
+        "Traitement de signal (FUN3202)",
+        "Théorie des Langages et Compilation (GIN3209)",
+        "Principes fondamentaux de la sécurité (GIN3208)",
+        "Complexité des algorithmes et graphes (GIN3202)",
+        "Programmation orientée objets (GIN3203)",
+        "Framework de développement Web Ionic Web Mobile (GIN3206)",
+        "Développement full stack (GIN3209)",
+        "Administration de bases de données (GIN3207)",
+        "Technologie des Réseaux (GINF32R06)",
+        "Systèmes d’exploitation avancés Linux (GIN3108)",
+        "Programmation C (GIN3105)"
+      ],
+      "semestre_3": [
+        "Génie Logiciel avancé (GIN4101)",
+        "Langage de modélisation objet (UML) (GIN4102)",
+        "L’ingénierie des tests et de la validation (GIN4108)",
+        "Recherche Opérationnelle et Optimisation (FUN4103)",
+        "Intelligence Artificielle 1 (GIN4104)",
+        "Développement Mobile Hybride Framework Ionic (GIN4106)",
+        "Programmation orientée objet avancée (GIN4105)",
+        "Système de Gestion des Bases de Données Oracle (GIN4106)",
+        "Programmation événementielle (Symfony) (GIN4107)",
+        "Sécurité internet (GIN4117)",
+        "Systèmes et architectures avancées (GIN4109)",
+        "Animation d’équipe et leadership (ENT4103)"
+      ]
+    },
+    "specialisations": {
+      "ingenierie_logicielle": {
+        "semestre_4": [
+          "Architecture logicielle & Design patterns (GIN4201)",
+          "Méthodologies Agiles et Hybrides (GIN4202)",
+          "Fundamentals of Machine Learning (GIN4ML1)",
+          "Programmation Java EE (GIN4203)",
+          "Programmation simultanée et parallèle (GIN4100)",
+          "Développement .Net (C# & ASP.NET) (GIN4204)",
+          "Développement mobile natif 1 (Android) (GIN4205)",
+          "Développement Web Avancé (GIN4206)",
+          "Administration des systèmes Linux LPIC-1 (GIN42R02)",
+          "NoSQL Database Systems (GINAI03)",
+          "Droit du travail et éthique de l’ingénieur (ENT4104)",
+          "Innovation & Entrepreneuriat (ENT4103)"
+        ],
+        "semestre_5": [
+          "Big Data Engineering (GIN5L08)",
+          "Datawarehouse & Business Intelligence (GIN5L07)",
+          "SOA et Cloud (GIN5L06)",
+          "Veille technologique en Data Sciences (GIN5L10)",
+          "Méthodes de recherche en informatique et génie logiciel (RE5001)",
+          "Sécurité des systèmes d’information (GIN5205)",
+          "Advanced Level Linux Professional LPIC-2 (GIN5R06)",
+          "Systèmes Répartis (GIN5108)",
+          "Interfaces Utilisateurs Avancées (GIN5L01)",
+          "Préparation à la certification .NET (MTA) (GIN5304)"
+        ]
+      },
+      "ingenierie_systemes_reseaux": {
+        "semestre_4": [
+          "Internet des objets (IOT4102)",
+          "Sécurité réseau et cryptographie (SER4112)",
+          "Réseaux sans fils 1 (GIN4R04)",
+          "Préparation à la certification CCNA 1 et 2 (GIN4R05)",
+          "Virtualisation et cloud computing (GIN4R03)",
+          "Voix sur IP pratique (TEL5P01)",
+          "Systèmes temps réel et embarqués (GIN4001)"
+        ],
+        "semestre_5": [
+          "Développement Mobile Natif 2 (iOS) (GIN5L03)",
+          "Advanced Level Linux Professional LPIC-2 (GIN5R06)",
+          "Réseaux nouvelles générations (GIN5R01)",
+          "Signalisation et gestion de réseau (TEL4101)",
+          "Veille technologique Internet Of Things (IOT3103)",
+          "Sécurité et audit des réseaux (GIN5R07)"
+        ]
+      },
+      "ingenierie_connaissances": {
+        "semestre_4": [
+          "Mathématiques pour l’apprentissage automatique (FUNML3100)",
+          "Fundamentals of Machine Learning (GIN4ML1)",
+          "NoSQL Database Systems (GINAI03)",
+          "Représentation des connaissances (GINML15)",
+          "Méthodologies Agiles et Hybrides (GIN4202)"
+        ],
+        "semestre_5": [
+          "Big Data Engineering (GIN5L08)",
+          "Datawarehouse & Business Intelligence (GIN5L07)",
+          "Apprentissage par renforcement (GINML13)",
+          "Programmation d’intelligence artificielle en Prolog (GINAI04)",
+          "Vision par ordinateur (Yolo-Nas) (GINML3)",
+          "Réalité virtuelle/augmentée (AR, VR) et Métaverse (GINML6)"
+        ]
+      }
+    },
+    "methodes_recherche": [
+      "Méthodologie de recherche (RE5001)",
+      "Méthodes de recherche en informatique et génie logiciel (RE5001)",
+      "Méthodes de recherche en cybersécurité des objets connectés (RE4002)",
+      "Méthodes de recherche en navigation des véhicules autonomes (RE4003)",
+      "Méthodes de recherche en Intelligence Artificielle & Big-Data (RE4004)"
+    ]
+  }
+}

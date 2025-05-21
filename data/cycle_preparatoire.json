@@ -1,0 +1,86 @@
+{
+  "cycle_preparatoire": {
+    "titre": "Cycle Préparatoire Intégré",
+    "definition": {
+      "description": "Le cycle ingénieur à Prépa Intégrée en Tunisie est un cursus d’études supérieures qui combine :",
+      "structure": [
+        "Deux premières années de classes préparatoires",
+        "Trois années de cycle ingénieur au sein d’une même école d’ingénieurs"
+      ]
+    },
+    "differences_classes_preparatoires": [
+      "Contrairement aux classes préparatoires classiques (ex. IPEIT), qui préparent les étudiants à des concours nationaux pour intégrer différentes écoles d’ingénieurs, la prépa intégrée est spécifique à une école.",
+      "Les étudiants admis en prépa intégrée sont généralement assurés de poursuivre leurs études au cycle ingénieur de cette même école, sous réserve de valider les exigences académiques."
+    ],
+    "duree_totale": {
+      "description": "5 ans après le baccalauréat",
+      "details": [
+        "2 ans de prépa intégrée",
+        "3 ans de cycle ingénieur"
+      ]
+    },
+    "specialites_proposees": [
+      "Informatique",
+      "Télécommunications",
+      "Génie industriel, etc."
+    ],
+    "objectif": {
+      "description": "L’objectif de ce cursus est de préparer l’étudiant aux études d’ingénieur.",
+      "accessible_a": "Baccalauréat scientifique",
+      "duree": "4 semestres",
+      "tronc_commun": "Mathématiques-Physique-Informatique (MPI)"
+    },
+    "filieres_accessibles": [
+      "Ingénieur en Systèmes et Réseaux Informatiques",
+      "Ingénieur en Génie Informatique",
+      "Ingénieur en Systèmes d’Information et de Connaissances",
+      "Ingénieur en Télécommunications"
+    ],
+    "duree": "2 années (4 semestres)",
+    "conditions_admission": [
+      "Baccalauréat en sciences expérimentales",
+      "Baccalauréat en mathématiques",
+      "Baccalauréat en technique / informatique"
+    ],
+    "avantages": [
+      {
+        "titre": "Intégration et suivi personnalisés",
+        "description": "Les étudiants sont intégrés dès le début à l’école d’ingénieurs, favorisant un meilleur encadrement et une adaptation progressive à la culture et aux méthodes de l’école."
+      },
+      {
+        "titre": "Moins de stress lié aux concours",
+        "description": "L’admission au cycle ingénieur est conditionnée par la réussite des examens et des évaluations de la prépa intégrée, évitant ainsi le stress intense des concours nationaux."
+      },
+      {
+        "titre": "Formation cohérente et progressive",
+        "description": "Le programme est spécifiquement conçu pour préparer les étudiants aux exigences du cycle ingénieur, assurant une meilleure continuité dans l’apprentissage."
+      },
+      {
+        "titre": "Ouverture sur le monde professionnel",
+        "description": "Certaines prépas intégrées mettent l’accent sur des projets concrets, des stages précoces et des interactions avec le monde de l’entreprise, facilitant l’insertion professionnelle."
+      },
+      {
+        "titre": "Dynamique de groupe et esprit d’école",
+        "description": "Les étudiants développent un fort sentiment d’appartenance à leur école dès les premières années, favorisant la collaboration et l’entraide."
+      },
+      {
+        "titre": "Cursus adapté à certains profils",
+        "description": "Pour les étudiants ayant une idée précise de la spécialité d’ingénierie qu’ils souhaitent suivre, la prépa intégrée est un choix plus direct et motivant."
+      },
+      {
+        "titre": "Possibilité de mobilité internationale",
+        "description": "Certaines écoles offrent des opportunités de séjours d’études ou de stages à l’étranger pendant le cycle ingénieur."
+      }
+    ],
+    "debouches": {
+      "formation": [
+        "Au cycle de formation d’ingénieurs",
+        "À l’une des licences en informatique (3ᵉ année) proposées par SUPTECH"
+      ]
+    },
+    "remarque": {
+      "prepa_integree": "Voie plus directe vers une école spécifique",
+      "prepa_classique": "Offre un éventail plus large de possibilités à travers les concours nationaux"
+    }
+  }
+}

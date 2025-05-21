@@ -1,0 +1,667 @@
+{
+  "questions_answers": [
+
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quels sont les programmes disponibles ?|formation?|programme?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": "Quels sont les formations disponibles à Suptech?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": "  programmes Suptech?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": "Formation Suptech?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+    {
+    "categorie": "🎓 Formations",
+    "question": "formation?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+    {
+    "categorie": "🎓 Formations",
+    "question": "programme?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelle est la durée de chaque formation ? |durée formation?",
+    "answer": "Les Licences durent 3 ans. Les Mastères durent 2 ans. Le Cycle Ingénieur dure 3 ans en formation classique ou 4 ans en cours du soir."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités proposées ? |spécialité?",
+    "answer": "Les spécialités incluent :\n- En Licence : Informatique Décisionnelle, Systèmes Embarqués, Réseaux et Télécoms, Gestion (Marketing, Finance), Droit, Management.\n- En Mastère : Marketing Digital, Management des Organisations, Droit des Affaires, Comptabilité, Ressources Humaines.\n- En Cycle Ingénieur : Ingénierie Logicielle, Réseaux, Intelligence Artificielle, Télécommunications."
+  },
+    {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  informatique de licence?",
+    "answer": "Les spécialités incluent :\n- En Licence : Informatique Décisionnelle, Systèmes Embarqués, Réseaux et Télécoms,Génie logiciel et système d'information,Réseaux et système d'information,Licence en Informatique de Gestion."
+  },
+     {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les licences disponibles en informatique ?",
+    "answer": "Les spécialités incluent :\n- En Licence : Informatique Décisionnelle, Systèmes Embarqués, Réseaux et Télécoms,Génie logiciel et système d'information,Réseaux et système d'information,Licence en Informatique de Gestion."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités de licence gestion?",
+    "answer": "Les spécialités incluent :\n- En Licence : Gestion (Marketing, Finance)."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  droit privé de licence?",
+    "answer": "Les spécialités incluent :\n- En Licence : Droit Privé."
+  },
+
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  droit public?",
+    "answer": "Les spécialités incluent :\n- En Licence : Droit Public."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  droit?",
+    "answer": "Les spécialités incluent :\n- En Licence : Droit, Management."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  management de licence?",
+    "answer": "Les spécialités incluent :\n- En Licence :  Management."
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": " Masters informatique?",
+    "answer": "Les spécialités incluent :\n- En Mastère :Les spécialités incluent :\n- En Mastère : Cybersécurité, Master en Big Data et Machine Learning, Cloud Computing, Master en Sécurité des Systèmes Informatiques Communicants et Embarqués,Master en Data Sciences,Intelligence Artificielle,Cursus Master 3 en Ingénierie Informatique."
+  },
+    {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  management de Masters?",
+    "answer": "Les spécialités incluent :\n- En Mastère :  Master en Comptabilité et Système d’information, , Master en Finance Islamique, , Master en droit des affaires, Master en Comptabilité et Système d’information,Master en Finance Islamique,Master en Gestion de la Relation avec le Client,Master en Gestion des Organisations,Master en Management des Organisations et Entrepreneuriat,Master en Ingénierie Financière,Master en Gestion des Ressources Humaines,Master en Affaires Commerciales,Master Européen MBA MANAGEMENT DES ETABLISSEMENTS SANITAIRES ET SOCIAUX,Master en Hautes Etudes Commerciales,Master finance de marché,Master en Logistique du Transport,Mastère Professionnel en Marketing Digital,Mastère professionnel en Management Intégré : Qualité Sécurité Environnement,Master: Economie de l’énergie, gestion de l’énergie et développement durable"
+  },
+     {
+    "categorie": "🎓 Formations",
+    "question": "management  Masters?",
+    "answer": "Les spécialités incluent :\n- En Mastère :  Master en Comptabilité et Système d’information, , Master en Finance Islamique, , Master en droit des affaires, Master en Comptabilité et Système d’information,Master en Finance Islamique,Master en Gestion de la Relation avec le Client,Master en Gestion des Organisations,Master en Management des Organisations et Entrepreneuriat,Master en Ingénierie Financière,Master en Gestion des Ressources Humaines,Master en Affaires Commerciales,Master Européen MBA MANAGEMENT DES ETABLISSEMENTS SANITAIRES ET SOCIAUX,Master en Hautes Etudes Commerciales,Master finance de marché,Master en Logistique du Transport,Mastère Professionnel en Marketing Digital,Mastère professionnel en Management Intégré : Qualité Sécurité Environnement,Master: Economie de l’énergie, gestion de l’énergie et développement durable"
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  gestion de Masters?",
+    "answer": "Les spécialités incluent : \n- En Mastère : Gestion (Marketing, Finance)."
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": " gestion  Masters?",
+    "answer": "Les spécialités incluent : \n- En Mastère : Gestion (Marketing, Finance),Master en Gestion des Organisations,Master en Gestion des Ressources Humaines,Master en Affaires Commerciales,Master en Logistique du Transport."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  informatique de Masters?",
+    "answer": "Les spécialités incluent :\n- En Mastère : Cybersécurité, Master en Big Data et Machine Learning, Cloud Computing, Master en Sécurité des Systèmes Informatiques Communicants et Embarqués,Master en Data Sciences,Intelligence Artificielle,Cursus Master 3 en Ingénierie Informatique."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  informatique de cycle ingénieur?",
+    "answer": "Les spécialités incluent :\n- En Cycle Ingénieur : Génie Informatique, Télécommunications."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les spécialités  informatique de cycle ingénieur?",
+    "answer": "Les spécialités incluent :\n- En Cycle Ingénieur : Génie Informatique, Télécommunications."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quels sont les prérequis pour chaque formation ? |prérequis?",
+    "answer": "Pour la Licence : Baccalauréat ou équivalent.\nPour le Mastère : Licence en lien avec la spécialité choisie.\nPour le Cycle Ingénieur : Bac +2 ou équivalent."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelles sont les conditions d’admission ? |admission?",
+    "answer": "Pour les Licences : Baccalauréat ou équivalent.\nPour les Mastères : Licence en lien avec la spécialité choisie.\nPour le Cycle Ingénieur : Admission après Prépa ou Licence/Mastère, ou par concours spécifique."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quelle est la différence entre une Licence et un Master ?",
+    "answer": "La Licence est une formation de premier cycle (Bac +3), alors que le Mastère est une formation de deuxième cycle (Bac +5). Le Mastère permet de se spécialiser davantage et d'accéder à des postes de responsabilité plus élevés."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Peut-on suivre les cours en ligne ou à distance ?",
+    "answer": "Certains modules ou formations peuvent proposer des cours du soir ou en ligne, en particulier pour les étudiants en Mastère ou Cycle Ingénieur."
+  },
+  {
+    "categorie": "🎓 Formations",
+    "question": "Quels sont les débouchés professionnels ?",
+    "answer": "Les diplômés peuvent travailler comme développeurs, analystes de données, ingénieurs réseaux, juristes, experts-comptables, marketeurs digitaux, responsables RH, etc., selon la filière choisie."
+  },
+{
+  "categorie": "📅 Inscriptions et admissions",
+  "question": "Comment s’inscrire à l’université ? | inscription ? | procédure d'inscription ? | comment postuler ?",
+  "answer": "L'inscription se fait en ligne ou sur place en déposant un dossier complet avec les pièces demandées. L’admission dépend du programme choisi."
+},
+  {
+    "categorie": "📅 Inscriptions et admissions",
+    "question": "Quelles sont les dates limites d’inscription ?| date inscription?",
+    "answer": "Les dates limites sont fixées chaque année académique, généralement entre juillet et septembre."
+  },
+  {
+    "categorie": "📅 Inscriptions et admissions",
+    "question": "Quels documents sont nécessaires pour postuler ? |postuler?",
+    "answer": "Photocopie du diplôme, relevés de notes, formulaire d’inscription, pièce d’identité, photo d’identité, et justificatif de paiement des frais d'inscription."
+  },
+  {
+    "categorie": "📅 Inscriptions et admissions",
+    "question": "Y a-t-il des concours d’entrée ?",
+    "answer": "Oui, certains programmes comme le Cycle Ingénieur prévoient un concours d'entrée en première ou deuxième année."
+  },
+  {
+    "categorie": "📅 Inscriptions et admissions",
+    "question": "Comment se passe l’admission pour les étudiants étrangers ?",
+    "answer": "Les étudiants étrangers peuvent postuler en ligne, et doivent fournir des équivalences de diplômes si nécessaire. L’admission est ouverte à tous sans distinction de nationalité."
+  },
+  {
+    "categorie": "📅 Inscriptions et admissions",
+    "question": "Comment suivre l’état de mon dossier d’inscription ?",
+    "answer": "Après dépôt, un identifiant vous permet de suivre l’état d’avancement de votre dossier en ligne ou via le service des admissions."
+  },
+   {
+    "categorie": "🗓️ Emploi du temps et examens",
+    "question": "Comment s’inscrire aux examens ?",
+    "answer": "L’inscription aux examens se fait via l’espace étudiant ou auprès du secrétariat pédagogique."
+  },
+  {
+    "categorie": "🗓️ Emploi du temps et examens",
+    "question": "Quand commencent les examens ?",
+    "answer": "Les examens sont programmés à la fin de chaque semestre. Le calendrier est publié sur le site de l’université."
+  },
+  {
+    "categorie": "🗓️ Emploi du temps et examens",
+    "question": "Comment récupérer mes résultats ?",
+    "answer": "Les résultats sont publiés sur la plateforme étudiante ou affichés dans l’université après les délibérations."
+  },
+  {
+    "categorie": "🗓️ Emploi du temps et examens",
+    "question": "Que faire en cas d'absence à un examen ?",
+    "answer": "Un justificatif médical ou administratif doit être fourni rapidement pour demander une session de rattrapage."
+  },
+   {
+    "categorie": "👩‍🏫 Enseignants et cours",
+    "question": "Qui est l’enseignant de tel module ?",
+    "answer": "Les enseignants responsables des modules sont affichés sur la plateforme pédagogique ou communiqués au début de chaque semestre."
+  },
+  {
+    "categorie": "👩‍🏫 Enseignants et cours",
+    "question": "Quels sont les cours dispensés en première année ?",
+    "answer": "Les cours de première année incluent des bases en mathématiques, programmation, systèmes d’exploitation, communication et anglais, selon le programme choisi (Licence ou Ingénieur)."
+  },
+  {
+    "categorie": "👩‍🏫 Enseignants et cours",
+    "question": "Puis-je changer de spécialité ou de groupe ?",
+    "answer": "Oui, sur demande auprès du service pédagogique, selon la disponibilité des places et la compatibilité du parcours."
+  },
+  {
+    "categorie": "📍 Vie étudiante et campus",
+    "question": "Où se trouve l’université / les campus ?",
+    "answer": "L’université est située à Tunis, avec des informations détaillées disponibles sur le site officiel ou auprès du service accueil."
+  },
+  {
+    "categorie": "📍 Vie étudiante et campus",
+    "question": "Y a-t-il un service de transport / navette ?",
+    "answer": "Un service de navette peut être proposé selon les besoins et les campus. Se renseigner auprès de l'administration."
+  },
+  {
+    "categorie": "📍 Vie étudiante et campus",
+    "question": "Y a-t-il un logement universitaire ?",
+    "answer": "L’université peut proposer un accompagnement pour trouver un logement ou dispose de partenariats avec des résidences étudiantes."
+  },
+  {
+    "categorie": "📍 Vie étudiante et campus",
+    "question": "Où se trouvent les bibliothèques ?",
+    "answer": "Les bibliothèques sont situées dans les différents campus. Leur accès est ouvert à tous les étudiants inscrits."
+  },
+  {
+    "categorie": "📍 Vie étudiante et campus",
+    "question": "Y a-t-il des clubs ou activités étudiantes ?",
+    "answer": "Oui, des clubs et associations étudiantes organisent régulièrement des activités culturelles, sportives et sociales."
+  },
+  {
+    "categorie": "📍 Vie étudiante et campus",
+    "question": "Quels sont les restaurants universitaires disponibles ?",
+    "answer": "Des restaurants ou cafétérias sont disponibles sur le campus, offrant des repas à prix réduits pour les étudiants."
+  },
+  {
+    "categorie": "🖥️ Questions techniques",
+    "question": "Comment accéder à mon compte étudiant ?",
+    "answer": "Connectez-vous à la plateforme en ligne avec votre identifiant étudiant et le mot de passe fourni lors de l'inscription."
+  },
+  {
+    "categorie": "🖥️ Questions techniques",
+    "question": "J’ai oublié mon mot de passe, que faire ?",
+    "answer": "Utilisez la fonction « mot de passe oublié » sur la page de connexion ou contactez le support informatique."
+  },
+  {
+    "categorie": "🖥️ Questions techniques",
+    "question": "Comment accéder à la plateforme e-learning ?",
+    "answer": "La plateforme e-learning est accessible via le site officiel de l’université. Connectez-vous avec vos identifiants étudiants."
+  },
+  {
+    "categorie": "🖥️ Questions techniques",
+    "question": "Où puis-je télécharger mes relevés de notes ?",
+    "answer": "Les relevés de notes sont téléchargeables depuis l’espace personnel étudiant sur la plateforme en ligne."
+  },
+  {
+    "categorie": "📞 Assistance et contact",
+    "question": "Comment contacter le service des admissions ?",
+    "answer": "Le service des admissions est joignable par téléphone, email ou via le formulaire de contact du site de l’université."
+  },
+  {
+    "categorie": "📞 Assistance et contact",
+    "question": "Quels sont les horaires d'ouverture de l’administration ?",
+    "answer": "L’administration est généralement ouverte du lundi au vendredi, de 8h à 16h. Les horaires peuvent varier selon les périodes."
+  },
+  {
+    "categorie": "📞 Assistance et contact",
+    "question": "Y a-t-il un numéro d’urgence ?",
+    "answer": "Oui, un numéro d'urgence est affiché sur le site officiel ou disponible dans l'application mobile de l'université."
+  },
+  {
+    "categorie": "📞 Assistance et contact",
+    "question": "Comment contacter le service des admissions ?",
+    "answer": "Le service des admissions est joignable par téléphone, email ou via le formulaire de contact du site de l’université."
+  },
+  {
+    "categorie": "📞 Assistance et contact",
+    "question": "Quels sont les horaires d'ouverture de l’administration ?",
+    "answer": "L’administration est généralement ouverte du lundi au vendredi, de 8h à 16h. Les horaires peuvent varier selon les périodes."
+  },
+  {
+    "categorie": "📞 Assistance et contact",
+    "question": "Y a-t-il un numéro d’urgence ?",
+    "answer": "Oui, un numéro d'urgence est affiché sur le site officiel ou disponible dans l'application mobile de l'université."
+  },
+{
+      "question": "Quels sont les licences disponibles Suptech ?",
+      "answer": "Les licences disponibles sont :\n- Licence en Ingénierie des Systèmes\n- Licence en Génie Logiciel & Systèmes d’Information\n- Licence en Informatique Décisionnelle\n- Licence en Informatique des Sciences de Données\n- Licence en Réseaux et Télécommunications\n- Licence en Gestion Spécialité : Marketing\n- Licence en Gestion Spécialité : Finance\n- Licence en Droit Privé\n- Licence en Management"
+    },
+     {
+      "question": "Quels sont les licences  disponibles  ?",
+      "answer": "Les licences disponibles sont :\n- Licence en Ingénierie des Systèmes\n- Licence en Génie Logiciel & Systèmes d’Information\n- Licence en Informatique Décisionnelle\n- Licence en Informatique des Sciences de Données\n- Licence en Réseaux et Télécommunications\n- Licence en Gestion Spécialité : Marketing\n- Licence en Gestion Spécialité : Finance\n- Licence en Droit Privé\n- Licence en Management"
+    },
+      {
+      "question": "Quels sont les licences informatique à Suptech ? ",
+      "answer": "Les licences disponibles sont :\n- Licence en Ingénierie des Systèmes\n- Licence en Génie Logiciel & Systèmes d’Information\n- Licence en Informatique Décisionnelle\n- Licence en Informatique des Sciences de Données\n- Licence en Réseaux et Télécommunications"
+    },
+       {
+      "question": "  licences informatique à Suptech ? ",
+      "answer": "Les licences disponibles sont :\n- Licence en Ingénierie des Systèmes\n- Licence en Génie Logiciel & Systèmes d’Information\n- Licence en Informatique Décisionnelle\n- Licence en Informatique des Sciences de Données\n- Licence en Réseaux et Télécommunications"
+    },
+     {
+      "question": "les licences ?",
+      "answer": "Les licences disponibles sont :\n- Licence en Ingénierie des Systèmes\n- Licence en Génie Logiciel & Systèmes d’Information\n- Licence en Informatique Décisionnelle\n- Licence en Informatique des Sciences de Données\n- Licence en Réseaux et Télécommunications\n- Licence en Gestion Spécialité : Marketing\n- Licence en Gestion Spécialité : Finance\n- Licence en Droit Privé\n- Licence en Management"
+    },
+      {
+      "question": " licence ?",
+      "answer": "Les licences disponibles sont :\n- Licence en Ingénierie des Systèmes\n- Licence en Génie Logiciel & Systèmes d’Information\n- Licence en Informatique Décisionnelle\n- Licence en Informatique des Sciences de Données\n- Licence en Réseaux et Télécommunications\n- Licence en Gestion Spécialité : Marketing\n- Licence en Gestion Spécialité : Finance\n- Licence en Droit Privé\n- Licence en Management"
+    },
+    {
+      "question": "Quels sont les masters disponibles à SUPTECH ?",
+      "answer": "Les masters disponibles sont :\n- Master en Sécurité des Systèmes Informatiques Communicants et Embarqués\n- Master en Cybersécurité\n- Master en Big Data et Machine Learning\n- Master en Data Sciences\n- Master en Cloud Computing\n- Master en Intelligence Artificielle\n- Master en Management des Organisations et Entrepreneuriat\n- Master en Marketing Digital\n- Master en Droit des Affaires\n- Master en Comptabilité et Systèmes d’Information\n- Master en Gestion des Ressources Humaines\n- Master en Finance Islamique\n- Master en Management Intégré : Qualité, Sécurité, Environnement"
+    },
+      {
+      "question": "Les masters  ?",
+      "answer": "Les masters disponibles sont :\n- Master en Sécurité des Systèmes Informatiques Communicants et Embarqués\n- Master en Cybersécurité\n- Master en Big Data et Machine Learning\n- Master en Data Sciences\n- Master en Cloud Computing\n- Master en Intelligence Artificielle\n- Master en Management des Organisations et Entrepreneuriat\n- Master en Marketing Digital\n- Master en Droit des Affaires\n- Master en Comptabilité et Systèmes d’Information\n- Master en Gestion des Ressources Humaines\n- Master en Finance Islamique\n- Master en Management Intégré : Qualité, Sécurité, Environnement"
+    },
+    {
+      "question": "mastere?",
+      "answer": "Les masters disponibles sont :\n- Master en Sécurité des Systèmes Informatiques Communicants et Embarqués\n- Master en Cybersécurité\n- Master en Big Data et Machine Learning\n- Master en Data Sciences\n- Master en Cloud Computing\n- Master en Intelligence Artificielle\n- Master en Management des Organisations et Entrepreneuriat\n- Master en Marketing Digital\n- Master en Droit des Affaires\n- Master en Comptabilité et Systèmes d’Information\n- Master en Gestion des Ressources Humaines\n- Master en Finance Islamique\n- Master en Management Intégré : Qualité, Sécurité, Environnement"
+    },
+    
+    {
+      "question": "Quels sont les modes de paiement disponibles ?",
+      "answer": "Les modes de paiement disponibles sont :\n- Paiement caisse sur place\n- Paiement via Western Union\n- Paiement par transfert par l’intermédiaire d’Ecobank (Pan African Bank)\n- Paiement par virement bancaire (AMEN BANK Agence Alain Savary, RIB : 073090075101111633 44, Code BIC : CFCTTNTT)"
+    },
+      {
+      "question": "Quels sont les frais d'inscription ?",
+      "answer": "Les frais d'inscription sont de 100 DT pour les étudiants tunisiens et de 200 DT pour les étudiants étrangers." 
+    },
+    {
+      "question": "Quels sont les tarifs de scolarité? |frais ? | tarifs ?",
+      "answer": "Les frais de scolarité pour le cycle Prépa & Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND \n\nPour le cycle Master & Ingénieur :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+        
+    },
+     {
+      "question": "prix Suptech?",
+      "answer": "Les frais de scolarité pour le cycle Prépa & Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND \n\nPour le cycle Master & Ingénieur :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+        
+    },
+     {
+      "question": "Scolarité Suptech?",
+      "answer": "Les frais de scolarité pour le cycle Prépa & Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND \n\nPour le cycle Master & Ingénieur :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+        
+    },
+     {
+      "question": "prix cycle Préparatoire?",
+      "answer": "Les frais de scolarité pour le cycle Prépa sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND \n"
+        
+    },
+      {
+      "question": "tarifs cycle Préparatoire?",
+      "answer": "Les frais de scolarité pour le cycle Prépa sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND \n"
+        
+    },
+      {
+      "question": "Quels sont les tarifs cycle Préparatoire?",
+      "answer": "Les frais de scolarité pour le cycle Prépa sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND \n"
+        
+    },
+      {
+      "question": "Quels sont les tarifs de licence ?",
+      "answer": "Les frais de scolarité pour la Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND"
+        
+    },
+    {
+      "question": "tarifs de licence ?",
+      "answer": "Les frais de scolarité pour la Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND"
+        
+    },
+          {
+      "question": "Quels sont les Prix de licence ?",
+      "answer": "Les frais de scolarité pour la Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND"
+        
+    },
+             {
+      "question": " Prix  licence ?",
+      "answer": "Les frais de scolarité pour la Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND"
+        
+    },
+             {
+      "question":" Prix de licence ?",
+      "answer": "Les frais de scolarité pour la Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND"
+        
+    },
+          {
+      "question": "Quels sont les frais de licence ?",
+      "answer": "Les frais de scolarité pour la Licence sont :\n- Montant TTC : 6500 TND\n- Première tranche : 2440 TND"
+        
+    },
+     {
+    "question": "Quels sont les tarifs de Masters ?",
+    "answer": "Les frais de scolarité pour le cycle Master sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+  },
+       {
+    "question": "tarifs de Masters ?",
+    "answer": "Les frais de scolarité pour le cycle Master sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+  },
+      {
+    "question": "prix de Masters ?",
+    "answer": "Les frais de scolarité pour le cycle Master sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+  },
+      {
+    "question": "prix Masters ?",
+    "answer": "Les frais de scolarité pour le cycle Master sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+  },
+       {
+    "question": "Quels sont les frais de Masters ?",
+    "answer": "Les frais de scolarité pour le cycle Master sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+  },
+       {
+    "question": "Quels sont les prix de Masters ?",
+    "answer": "Les frais de scolarité pour le cycle Master sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+  },
+    {
+      "question": "Quels sont les tarifs de cycle Ingénieur ?",
+      "answer": "Les frais de scolarité pour le cycle Ingénieur sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+    },
+    {
+      "question": "Quels sont les prix de cycle Ingénieur ?",
+      "answer": "Les frais de scolarité pour le cycle Ingénieur sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+    },
+     {
+      "question": " prix cycle Ingénieur ?",
+      "answer": "Les frais de scolarité pour le cycle Ingénieur sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+    },
+    {
+      "question": "Quels sont les frais de cycle Ingénieur ?",
+      "answer": "Les frais de scolarité pour le cycle Ingénieur sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+    },
+    {
+      "question": "Quels sont les frais de scolarité pour le cycle Ingénieur ?",
+      "answer": "Les frais de scolarité pour le cycle Ingénieur sont :\n- Montant TTC : 7500 TND\n- Première tranche : 2840 TND"
+    },
+    {
+      "question": "Quels sont les frais d'encadrement ?",
+      "answer": "Les frais d'encadrement sont de 550 TND pour les classes terminales (3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)."
+    },
+     {
+      "question": " frais d'encadrement ?",
+      "answer": "Les frais d'encadrement sont de 550 TND pour les classes terminales (3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)."
+    },
+     {
+      "question": "Prix d'encadrement ?",
+      "answer": "Les frais d'encadrement sont de 550 TND pour les classes terminales (3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)."
+    },
+    {
+      "question": "Quels sont les frais d'encadrement pour les étudiants tunisiens ?",
+      "answer": "Les frais d'encadrement sont de 550 TND pour les classes terminales (3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)."
+    },
+    {
+      "question": "Quels sont les frais d'encadrement pour les étudiants internationaux ?",
+      "answer": "Les frais d'encadrement sont de 550 TND pour les classes terminales (3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)."
+    },
+    {
+      "question": "Comment s'inscrire à SUPTECH ?",
+      "answer": "Pour vous inscrire à SUPTECH, veuillez visiter la page officielle d'inscription en ligne : https://pre.suptech.tn/. Suivez les instructions pour remplir le formulaire et soumettre les documents requis."
+    },
+    {
+      "question": "inscrire  SUPTECH ?",
+      "answer": "Pour vous inscrire à SUPTECH, veuillez visiter la page officielle d'inscription en ligne : https://pre.suptech.tn/. Suivez les instructions pour remplir le formulaire et soumettre les documents requis."
+    },
+    
+    {
+      "question": "Quels sont les cycles disponibles ?",
+      "answer": "Les cycles disponibles sont :\n- Cycle Préparatoire Intégré\n- Cycle Ingénieur en Informatique\n- Cycle Ingénieur en Télécommunications"
+    },
+    {
+      "question": "Quels sont les certifications disponibles ? |certification?",
+      "answer": "Les certifications disponibles sont :\n- Cisco (CCNA, CCNP, etc.)\n- Microsoft (MCSE, MCSA, etc.)\n- CompTIA (A+, Network+, Security+)\n- ITIL (Information Technology Infrastructure Library)\n- PMP (Project Management Professional)\n- PRINCE2 (Projects IN Controlled Environments)"
+    },
+    {
+      "question": "Quels sont les cycles Ingénieurs disponibles en Informatique ? ",
+      "answer": "Les certifications disponibles sont :\n- Génie Informatique \n- Systèmes et Réseaux Informatiques \n- Systèmes d'Information et de Connaissances "
+    },
+     {
+      "question": "cycles Ingénieurs Informatique ? ",
+      "answer": "Les certifications disponibles sont :\n- Génie Informatique \n- Systèmes et Réseaux Informatiques \n- Systèmes d'Information et de Connaissances "
+    },
+     {
+      "question": "Quels sont les cycles Ingénieurs disponibles en Télecommunications ? ",
+      "answer": "Les certifications disponibles sont :\n- Réseau et Services Mobiles \n- Ingénierie des Services Télécoms "
+    },
+     {
+      "question": "Quels sont les cycles Ingénieurs disponibles en Télecommunications ? ",
+      "answer": "Les certifications disponibles sont :\n- Réseau et Services Mobiles \n- Ingénierie des Services Télécoms "
+    },
+    {
+      "question": "Quels sont les débouchés professionnels pour la licence en informatique ?",
+      "answer": "Les débouchés professionnels pour la licence en informatique incluent :\n- IoT Chief Officer / Analyste de données IoT\n- Intégrateur IoT\n- Concepteur de solutions embarquées\n- Développeur d'applications embarquées\n- Testeur de produits (ISTQB)"
+    },
+    {
+      "question": "Quels sont les débouchés professionnels pour le master en cybersécurité ?",
+      "answer": "Les débouchés professionnels pour le master en cybersécurité incluent :\n- Expert/responsable cybersécurité\n- Auditeur de sécurité organisationnelle et technique\n- Analyste de la menace\n- Spécialiste en gestion de crise cyber"
+    },
+    {
+      "question": "Quels sont les débouchés professionnels pour le cycle ingénieur en informatique ?",
+      "answer": "Les débouchés professionnels pour le cycle ingénieur en informatique incluent :\n- Ingénieur en Génie Informatique\n- Ingénieur en Génie Télécommunication\n- Ingénieur en Intelligence Artificielle"
+    },
+    
+    {
+    "question": "Quels sont les modes de paiement disponibles ? | paiement ? | mode de paiement ? | modes paiement ?",
+    "answer": "Les modes de paiement disponibles sont :\n- Paiement caisse sur place\n- Paiement via Western Union\n- Paiement par transfert par l’intermédiaire d’Ecobank (Pan African Bank)\n- Paiement par virement bancaire (AMEN BANK Agence Alain Savary, RIB : 073090075101111633 44, Code BIC : CFCTTNTT)"
+  } ,
+   {
+    "question": "Quels sont les modes de paiement disponibles ? | paiement ? | mode de paiement ? | modes paiement ?",
+    "answer": "Les modes de paiement disponibles sont :\n- Paiement caisse sur place\n- Paiement via Western Union\n- Paiement par transfert par l’intermédiaire d’Ecobank (Pan African Bank)\n- Paiement par virement bancaire (AMEN BANK Agence Alain Savary, RIB : 073090075101111633 44, Code BIC : CFCTTNTT)"
+  },
+    {
+      "question": "Quelles sont les remises et réductions disponibles ? | remises ?|remise |?",
+      "answer": "Les remises et réductions disponibles sont :\n- 5% de remise pour les inscriptions avant le 31 août ou pour les paiements au comptant\n- Pas de majoration de 5% pour les anciens étudiants (prévue par la réglementation du ministère de l’enseignement supérieur)\n- 40% de réduction pour les élèves ayant une moyenne supérieure à 15/20 et classés premiers de leur classe\n- 25% de réduction pour les élèves classés premiers de leur classe ayant une moyenne inférieure à 15/20\n- 40% pour le deuxième enfant\n- 50% pour le troisième enfant\n- Les réductions sont calculées sur les frais de scolarité les plus élevés, sur présentation d’une demande accompagnée des copies des cartes d’identité des frères/sœurs"
+    },
+    {
+      "question": "Quels sont les frais de scolarité pour les étudiants tunisiens ? |frais tunisienne ? | Frais scolarite tunisienne? |",
+      "answer": "Les frais de scolarité pour les étudiants tunisiens sont :\n- Prépa & Licence : 6500 TND (première tranche : 2440 TND)\n- Master & Ingénieur : 7500 TND (première tranche : 2840 TND)"
+    },
+    {
+      "question": "Quels sont les frais détaillés pour les étudiants tunisiens ?",
+      "answer": "Les frais détaillés pour les étudiants tunisiens sont :\n- 1ère préparatoire : 6000 TND (frais de scolarité) + 500 TND (frais d'inscription)\n- Licence (3ème année) : 6000 TND (frais de scolarité) + 500 TND (frais d'inscription) + 550 TND (frais d'encadrement)\n- Mastère (2ème année) : 7000 TND (frais de scolarité) + 500 TND (frais d'inscription) + 550 TND (frais d'encadrement)"
+    },
+    {
+      "question": "Quels sont les frais de scolarité pour les étudiants internationaux ?",
+      "answer": "Les frais de scolarité pour les étudiants internationaux sont :\n- Prépa & Licences : 2200 € (première tranche : 1100 €, deuxième tranche : 550 €)\n- Master & Ingénieur : 2500 € (première tranche : 1250 €, deuxième tranche : 625 €)"
+    },
+    {
+      "question": "Quels sont les frais d'inscription pour les étudiants internationaux ?",
+      "answer": "Les frais d'inscription pour les étudiants internationaux sont :\n- Classes préparatoires et licences : 200 €\n- Cycle ingénieur et master : 200 €"
+    },
+    {
+      "question": "Quels sont les frais supplémentaires ?",
+      "answer": "Les frais supplémentaires incluent :\n- Frais d'encadrement PFE : 550 TND (pour les classes terminales : 3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)"
+    },
+    {
+      "question": "Quelles sont les modalités de paiement pour les étudiants tunisiens ?",
+      "answer": "Les modalités de paiement pour les étudiants tunisiens sont :\n- Acompte de 30% non remboursable (sauf en cas de force majeure), payable par virement ou par chèque\n- Solde payable en 2 échéances sur l’année d’enseignement"
+    },
+    {
+      "question": "Quelles sont les modalités de paiement pour les étudiants internationaux ?",
+      "answer": "Les modalités de paiement pour les étudiants internationaux sont :\n- Acompte de 30% non remboursable (sauf en cas de refus de visa), payable par virement ou par chèque\n- Solde payable en 2 échéances sur l’année d’enseignement"
+    },
+    {
+      "question": "Quelles sont les remarques importantes concernant les frais de scolarité ?",
+      "answer": "Les remarques importantes sont :\n- Toute inscription est ferme et définitive. En cas d’abandon, aucun remboursement ne sera effectué.\n- L’étudiant qui abandonne son cursus universitaire au cours de l’année doit payer la totalité des frais de scolarité.\n- Les inscriptions ne peuvent être délivrées qu’après régularisation du dossier administratif et paiement de 30% du coût annuel de la scolarité.\n- Tout paiement au comptant lors de l’inscription donne droit à un tarif préférentiel de 5%.\n- Les étudiants internationaux doivent respecter le taux de change enregistré au 01/10 de l’année en cours."
+    },
+    {
+      "question": "Comment éviter les arnaques lors du paiement des frais de scolarité ?",
+      "answer": "Pour éviter les arnaques :\n- Le recruteur ou intermédiaire s’interdit de collecter directement des fonds des étudiants ou de leurs familles pour le compte de SUPTECH.\n- Les étudiants doivent transférer directement les frais de scolarité à SUPTECH.\n- SUPTECH décline toute responsabilité en cas de paiement des frais de scolarité à un intermédiaire."
+    },{
+    "categorie": "🏛️ Université",
+    "question": "L’université Suptech est-elle accréditée ?",
+    "answer": "Oui, Suptech University est reconnue par l'État tunisien (Agrément n°09-2001) et ses formations d’ingénieurs sont accréditées par l’organisme allemand ASIIN. Elle est aussi membre fondateur de QAAS et membre associé du réseau académique européen FIGURE."
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": " Suptech accréditée ?",
+    "answer": "Oui, Suptech University est reconnue par l'État tunisien (Agrément n°09-2001) et ses formations d’ingénieurs sont accréditées par l’organisme allemand ASIIN. Elle est aussi membre fondateur de QAAS et membre associé du réseau académique européen FIGURE."
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "Quelle est l'adresse de Suptech University ?",
+    "answer": "Suptech University se trouve au 22, Avenue de Madrid, 1001 Tunis, Tunisie."
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": " l'adresse de Suptech  ?",
+    "answer": "Suptech University se trouve au 22, Avenue de Madrid, 1001 Tunis, Tunisie."
+  },
+    {
+    "categorie": "🏛️ Université",
+    "question": " adresse?",
+    "answer": "Suptech University se trouve au 22, Avenue de Madrid, 1001 Tunis, Tunisie."
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "Comment contacter Suptech University ?",
+    "answer": "Vous pouvez contacter Suptech par téléphone au +216 71 33 68 88 ou +216 71 33 86 66, par email à contact@suptech.tn ou via leur site officiel https://suptech.tn"
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": "contacter Suptech ?",
+    "answer": "Vous pouvez contacter Suptech par téléphone au +216 71 33 68 88 ou +216 71 33 86 66, par email à contact@suptech.tn ou via leur site officiel https://suptech.tn"
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "contact Suptech watsapp ?",
+    "answer": "Vous pouvez contacter Suptech par watsapp au +216 26 05 00 51 "
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": "contact Suptech email ?",
+    "answer": "Vous pouvez contacter Suptech par email à contact@suptech.tn "
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": " Suptech site web ?",
+    "answer": "Vous pouvez contacter Suptech via son site officiel https://suptech.tn  "
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "Quels sont les partenaires de Suptech University ?",
+    "answer": "Suptech University a des partenariats avec plusieurs universités et entreprises, notamment :\n- Université de la Manouba\n- Université de Tunis El Manar\n- Université de Tunis\n- Université de Carthage\n- Université de Sousse\n- Université de Monastir\n- Université de Kairouan\n- Université de Gabès\n- Université de Jendouba\n- Université de Sfax"
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": " partenaires de Suptech ?",
+    "answer": "Suptech University a des partenariats avec plusieurs universités et entreprises, notamment :\n- Université de la Manouba\n- Université de Tunis El Manar\n- Université de Tunis\n- Université de Carthage\n- Université de Sousse\n- Université de Monastir\n- Université de Kairouan\n- Université de Gabès\n- Université de Jendouba\n- Université de Sfax"
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "Quels sont les projets de recherche de Suptech University ?",
+    "answer": "Suptech University est impliquée dans plusieurs projets de recherche, notamment dans les domaines de l'informatique, des télécommunications, de la cybersécurité et de l'intelligence artificielle. Elle collabore avec des entreprises et des institutions académiques pour développer des solutions innovantes."
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": " projets de recherche de Suptech ?",
+    "answer": "Suptech University est impliquée dans plusieurs projets de recherche, notamment dans les domaines de l'informatique, des télécommunications, de la cybersécurité et de l'intelligence artificielle. Elle collabore avec des entreprises et des institutions académiques pour développer des solutions innovantes."
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "Quels sont les événements organisés par Suptech University ?",
+    "answer": "Suptech University organise régulièrement des événements tels que des conférences, des ateliers, des séminaires et des hackathons pour promouvoir l'innovation et le partage de connaissances entre étudiants et professionnels."
+  } 
+  ,
+   {
+    "categorie": "🏛️ Université",
+    "question": " événements organisés par Suptech ?",
+    "answer": "Suptech University organise régulièrement des événements tels que des conférences, des ateliers, des séminaires et des hackathons pour promouvoir l'innovation et le partage de connaissances entre étudiants et professionnels."
+  },
+  {
+    "categorie": "🏛️ Université",
+    "question": "Quels sont les services offerts par Suptech University ?",
+    "answer": "Suptech University offre plusieurs services aux étudiants, notamment :\n- Accès à des ressources pédagogiques en ligne\n- Assistance académique et administrative\n- Services de santé et de bien-être\n- Activités culturelles et sportives"
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": " services offerts par Suptech ?",
+    "answer": "Suptech University offre plusieurs services aux étudiants, notamment :\n- Accès à des ressources pédagogiques en ligne\n- Assistance académique et administrative\n- Services de santé et de bien-être\n- Activités culturelles et sportives"
+  },
+  {
+  "categorie": "🏛️ Université",
+  "question": "Suptech est-elle inscrite à l'ordre des ingénieurs en Tunisie ? | Suptech ordre des ingénieurs ? | Suptech reconnue par l'ordre des ingénieurs ?",
+  "answer": "Oui, les diplômes d’ingénieur délivrés par Suptech University sont reconnus par l’Ordre des Ingénieurs Tunisiens (OIT). Les diplômés peuvent s’inscrire à l’ordre après l’obtention de leur diplôme."
+},{
+  "categorie": "🏛️ Université",
+  "question": "Suptech l'ordre des ingénieurs en Tunisie ? | Suptech ordre des ingénieurs ? | Suptech reconnue par l'ordre des ingénieurs ?",
+  "answer": "Oui, les diplômes d’ingénieur délivrés par Suptech University sont reconnus par l’Ordre des Ingénieurs Tunisiens (OIT). Les diplômés peuvent s’inscrire à l’ordre après l’obtention de leur diplôme."
+},{
+  "categorie": "🏛️ Université",
+  "question": "Suptech est-elle inscrite à l'ordre des ingénieurs en Tunisie ? | Suptech ordre des ingénieurs ? | Suptech reconnue par l'ordre des ingénieurs ?",
+  "answer": "Oui, les diplômes d’ingénieur délivrés par Suptech University sont reconnus par l’Ordre des Ingénieurs Tunisiens (OIT). Les diplômés peuvent s’inscrire à l’ordre après l’obtention de leur diplôme."
+},{
+  "categorie": "🏛️ Université",
+  "question": "Suptech ordre des ingénieurs ? ",
+  "answer": "Oui, les diplômes d’ingénieur délivrés par Suptech University sont reconnus par l’Ordre des Ingénieurs Tunisiens (OIT). Les diplômés peuvent s’inscrire à l’ordre après l’obtention de leur diplôme."
+},{
+  "categorie": "🏛️ Université",
+  "question":" Suptech reconnue par l'ordre des ingénieurs ?",
+  "answer": "Oui, les diplômes d’ingénieur délivrés par Suptech University sont reconnus par l’Ordre des Ingénieurs Tunisiens (OIT). Les diplômés peuvent s’inscrire à l’ordre après l’obtention de leur diplôme."
+}
+
+  
+  ]
+}

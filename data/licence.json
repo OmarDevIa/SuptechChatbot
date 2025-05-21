@@ -1,0 +1,377 @@
+{
+  "licences": {
+    "informatique": [
+      {
+        "titre": "Licence en Ingénierie des Systèmes",
+        "specialite": "Systèmes embarqués et IoT",
+        "objectif": "Former des compétences en informatique capables de concevoir, analyser, développer, implanter et maintenir des systèmes embarqués (matériels et logiciels).",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "IoT Chief Officer / Analyste de données IoT",
+          "Intégrateur IoT",
+          "Concepteur de solutions embarquées",
+          "Développeur d'applications embarquées",
+          "Testeur de produits (ISTQB)"
+        ],
+        "perspectives_academiques": [
+          "Mastères de recherche ou professionnels en informatique",
+          "Écoles d’ingénieurs"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Algèbre 1",
+            "Analyse 1",
+            "Electricité - Electronique",
+            "Propagation et rayonnement",
+            "Système d’exploitation 1",
+            "Systèmes logiques",
+            "Algorithmique et structures de données",
+            "Atelier de programmation 1",
+            "Anglais 1",
+            "Techniques de communication 1"
+          ],
+          "semestre_2": [
+            "Algèbre 2",
+            "Analyse 2",
+            "Fonctions électroniques",
+            "Initiation au traitement du signal",
+            "Architecture des ordinateurs",
+            "Transmission de données",
+            "Algorithmique & complexité",
+            "Atelier de programmation 2",
+            "Systèmes d’exploitation 2",
+            "Anglais 2",
+            "Techniques de communication 2"
+          ]
+        }
+      },
+      {
+        "titre": "Licence en Génie Logiciel & Systèmes d’Information",
+        "objectif": "Former des compétences en algorithmique, programmation, génie logiciel, systèmes d’exploitation, réseaux et bases de données.",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Préparer un mastère (recherche ou appliqué)",
+          "Intégrer une école d’ingénieurs",
+          "Intégration dans la vie active (secteur public ou privé)"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Algèbre I",
+            "Analyse I",
+            "Algorithmique et structures de données",
+            "Atelier de programmation 1",
+            "Système d’exploitation 1",
+            "Systèmes logiques & architecture des ordinateurs",
+            "Logique formelle",
+            "Technologies multimédia",
+            "Anglais 1",
+            "Techniques de communication 1"
+          ],
+          "semestre_2": [
+            "Algèbre 2",
+            "Analyse 2",
+            "Atelier de programmation 2 (C)",
+            "Programmation Python",
+            "Système d’exploitation 2",
+            "Fondements des réseaux",
+            "Fondements des bases de données",
+            "Anglais 2",
+            "Techniques de communication 2"
+          ]
+        }
+      }
+    ,
+      {
+      "titre": "Licence en Informatique Décisionnelle",
+      "objectif": "Former des compétences en informatique décisionnelle, incluant la gestion de données, l'analyse de données et la prise de décision.",
+      "conditions_admission": {
+        "niveau": "Bac ou équivalent",
+        "nombre_etudiants": 80
+      },
+      "perspectives_professionnelles": [
+        "Analyste de données",
+        "Consultant en systèmes d'information",
+        "Ingénieur en intelligence d'affaires",
+        "Développeur BI"
+      ],
+      "plan_etudes": {
+        "semestre_1": [
+          "Algèbre 1",
+          "Analyse 1",
+          "Systèmes logiques",
+          "Système d’exploitation 1",
+          "Propagation et rayonnement",
+          "Electricité - Electronique",
+          "Atelier de programmation 1",
+          "Anglais 1",
+          "Techniques de communication 1"
+        ],
+        "semestre_2": [
+          "Algèbre 2",
+          "Analyse 2",
+          "Transmission de données",
+          "Architecture des ordinateurs",
+          "Système d’exploitation 2",
+          "Initiation au traitement du signal",
+          "Atelier de programmation 2 (C)",
+          "Anglais 2",
+          "Techniques de communication 2"
+        ]
+      }
+    },
+
+    {
+      "titre": "Licence en Informatique des Sciences de Données",
+      "objectif": "Former des compétences en informatique des sciences de données, incluant la gestion de données, l'analyse de données et la prise de décision.",
+      "conditions_admission": {
+        "niveau": "Bac ou équivalent",
+        "nombre_etudiants": 80
+      },
+      "perspectives_professionnelles": [
+        "Analyste de données",
+        "Consultant en systèmes d'information",
+        "Ingénieur en intelligence d'affaires",
+        "Développeur BI"
+      ],
+      "plan_etudes": {
+          
+      }
+    },
+      {
+        "titre": "Licence en Réseaux et Télécommunications",
+        "objectif": "Former des compétences en réseaux et télécommunications, incluant la gestion de données, l'analyse de données et la prise de décision.",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Analyste de données",
+          "Consultant en systèmes d'information",
+          "Ingénieur en intelligence d'affaires",
+          "Développeur BI"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Algèbre 1",
+            "Analyse 1",
+            "Systèmes logiques",
+            "Système d’exploitation 1",
+            "Propagation et rayonnement",
+            "Electricité - Electronique",
+            "Atelier de programmation 1",
+            "Anglais 1",
+            "Techniques de communication 1"
+          ],
+          "semestre_2": [
+            "Algèbre 2",
+            "Analyse 2",
+            "Transmission de données",
+            "Architecture des ordinateurs",
+            "Système d’exploitation 2",
+            "Initiation au traitement du signal",
+            "Atelier de programmation 2 (C)",
+            "Anglais 2",
+            "Techniques de communication 2"
+          ]
+        }
+      }
+    ],
+
+    "telecoms": [
+      {
+        "titre": "Licence en Télécommunications",
+        "objectif": "Former des compétences en télécommunications, réseaux et systèmes embarqués.",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Ingénieur en télécommunications",
+          "Ingénieur réseau",
+          "Ingénieur systèmes embarqués",
+          "Technicien de maintenance en télécommunications"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Algèbre 1",
+            "Analyse 1",
+            "Systèmes logiques",
+            "Système d’exploitation 1",
+            "Propagation et rayonnement",
+            "Electricité - Electronique",
+            "Atelier de programmation 1",
+            "Anglais 1",
+            "Techniques de communication 1"
+          ],
+          "semestre_2": [
+            "Algèbre 2",
+            "Analyse 2",
+            "Transmission de données",
+            "Architecture des ordinateurs",
+            "Système d’exploitation 2",
+            "Initiation au traitement du signal",
+            "Atelier de programmation 2 (C)",
+            "Anglais 2",
+            "Techniques de communication 2"
+          ]
+        }
+      }
+    ],
+
+
+    "gestion": [
+      {
+        "titre": "Licence en Gestion Spécialité : Marketing",
+        "objectif": "Former des cadres en marketing, destinés à occuper des postes opérationnels, et à terme stratégiques, couvrant le vaste champ du marketing et de ses nouveaux métiers.",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Assistant marketing",
+          "Responsable de la relation client",
+          "Responsable fidélisation",
+          "Responsable e-commerce",
+          "Responsable acquisition clients",
+          "Responsable des partenariats Marketing",
+          "Responsable après-vente",
+          "Responsable communication multicanal"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Principes de gestion",
+            "Comptabilité Financière I",
+            "Micro / Macro économie",
+            "Anglais",
+            "C2I",
+            "Principes de droit",
+            "Maths (Analyse et Algèbre)"
+          ],
+          "semestre_2": [
+            "Marketing",
+            "Gestion des Ressources Humaines",
+            "Management & Leadership",
+            "Anglais",
+            "C2I",
+            "Statistiques",
+            "Comptabilité financière 2"
+          ]
+        }
+      },
+      {
+        "titre": "Licence en Gestion Spécialité : Finance",
+        "objectif": "Former des spécialistes en finance aptes à maîtriser les techniques financières modernes et les aspects juridiques et fiscaux des opérations financières complexes.",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Spécialiste de la finance quantitative",
+          "Responsable de l’ingénierie financière dans les entreprises",
+          "Responsable de l’évaluation et de la prévision du risque",
+          "Responsable de la conception et de la production de nouveaux produits financiers et d’assurance",
+          "Courtier ou agent général d’assurance"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Introduction au Droit",
+            "Mathématiques 1 : Analyse",
+            "Principes de Gestion 1 : Environnement et Fonctions de l’entreprise",
+            "Langues (Unité Transversale)",
+            "Comptabilité Financière 1",
+            "Microéconomie",
+            "Aptitudes en TIC 1"
+          ],
+          "semestre_2": [
+            "Mathématiques 2 : Algèbre",
+            "Macroéconomie",
+            "Principes de Gestion 2 : Le Processus de Gestion",
+            "Langues (Unité Transversale)",
+            "Introduction à la Fiscalité",
+            "Statistiques Descriptives et Probabilité",
+            "Comptabilité Financière 2"
+          ]
+        }
+      }
+    ],
+    "droit": [
+      {
+        "titre": "Licence en Droit Privé",
+        "objectif": "Former des compétences en droit privé, incluant le droit international privé, droit pénal, droit de la famille, droit des contrats, et droit des sociétés.",
+        "conditions_admission": {
+          "niveau": "Baccalauréat ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Avocat",
+          "Magistrat",
+          "Huissier de justice",
+          "Conseiller juridique",
+          "Fiscaliste",
+          "Service contentieux",
+          "Service financier ou commercial"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Droit objectif",
+            "Droit constitutionnel I",
+            "Institutions internationales"
+          ],
+          "semestre_2": [
+            "Droit des biens",
+            "Droit subjectif",
+            "Droit constitutionnel II"
+          ]
+        }
+      }
+    ],
+    "management": [
+      {
+        "titre": "Licence en Management",
+        "objectif": "Former des compétences en management pour assumer des postes de responsabilités dans une organisation nationale et internationale.",
+        "conditions_admission": {
+          "niveau": "Bac ou équivalent",
+          "nombre_etudiants": 80
+        },
+        "perspectives_professionnelles": [
+          "Assistant de gestion PME",
+          "Assistant RH",
+          "Contrôleur de gestion",
+          "Adjoint de direction opérationnelle",
+          "Assistant chef de projet",
+          "Gestionnaire de centre de profit",
+          "Adjoint du directeur financier"
+        ],
+        "plan_etudes": {
+          "semestre_1": [
+            "Principes de gestion",
+            "Comptabilité Financière I",
+            "Microéconomie",
+            "Mathématique I",
+            "Introduction au droit",
+            "Mathématiques financières",
+            "Anglais",
+            "C2I"
+          ],
+          "semestre_2": [
+            "Gestion des Ressources Humaines",
+            "Management & Leadership",
+            "Statistiques descriptives",
+            "Mathématique II",
+            "Comptabilité Financière II",
+            "Macroéconomie",
+            "Droit des sociétés commerciales",
+            "Anglais",
+            "C2I"
+          ]
+        }
+      }
+    ]
+  }
+}

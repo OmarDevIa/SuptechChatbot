@@ -1,0 +1,1164 @@
+
+---
+Fichier : Licence .pdf
+LICENCES EN INFORMATIQUE
+
+==============================
+LICENCE EN INGÉNIERIE DES SYSTÈMES
+Spécialité : Systèmes embarqués et IoT
+==============================
+
+1. Objectif :
+Former des compétences en informatique capables de concevoir, analyser, développer, implanter et maintenir des systèmes embarqués (matériels et logiciels).
+
+2. Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre d’étudiants prévu : 80.
+
+3. Perspectives professionnelles :
+- IoT Chief Officer / Analyste de données IoT
+- Intégrateur IoT
+- Concepteur de solutions embarquées
+- Développeur d'applications embarquées
+- Testeur de produits (ISTQB)
+
+4. Perspectives académiques :
+- Mastères de recherche ou professionnels en informatique
+- Écoles d’ingénieurs
+
+Plan d’études :
+
+Semestre 1 :
+- Algèbre 1
+- Analyse 1
+- Electricité - Electronique
+- Propagation et rayonnement
+- Système d’exploitation 1
+- Systèmes logiques
+- Algorithmique et structures de données
+- Atelier de programmation 1
+- Anglais 1 (transversale)
+- Techniques de communication 1 (transversale)
+
+Semestre 2 :
+- Algèbre 2
+- Analyse 2
+- Fonctions électroniques
+- Initiation au traitement du signal
+- Architecture des ordinateurs
+- Transmission de données
+- Algorithmique & complexité
+- Atelier de programmation 2
+- Systèmes d’exploitation 2
+- Anglais 2 (transversale)
+- Techniques de communication 2 (transversale)
+
+Semestre 3 :
+- Graphes et optimisation
+- Probabilité statistique
+- Réseaux locaux
+- Technologies multimédia
+- Méthodologie de conception de logiciel
+- Bases de données
+- Programmation orientée objet
+- Sécurité informatique
+- Anglais 3 (transversale)
+- Gestion de l’entreprise (transversale)
+- Architecture avancée des processeurs (optionnelle)
+- Certification Java (optionnelle)
+
+Semestre 4 :
+- Programmation web
+- Développement mobile
+- Circuits logiques & VHDL
+- Capteurs et instrumentation
+- Test logiciel
+- Système sur puce (SoC)
+- Anglais 4 (transversale)
+- Droit et éthique informatique (transversale)
+- Projet fédéré agile (transversale)
+- Développement distribué (optionnelle)
+- Certification middleware (optionnelle)
+
+Semestre 5 :
+- IA et Machine Learning
+- Réseaux industriels
+- Architecture IoT
+- Sécurité IoT
+- Conception des systèmes numériques
+- Réseaux sans fil IoT
+- Systèmes temps réel
+- Programmation embarquée
+- Anglais 5 (transversale)
+- Entrepreneuriat (transversale)
+- Préparation professionnelle (transversale)
+- Big Data (optionnelle)
+- Certification en gestion de projet (optionnelle)
+
+Semestre 6 :
+- Stage en entreprise
+
+
+==============================
+LICENCE EN GÉNIE LOGICIEL & SYSTÈMES D’INFORMATION
+==============================
+
+1. Objectif :
+Former des compétences en algorithmique, programmation, génie logiciel, systèmes d’exploitation, réseaux et bases de données.
+
+2. Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre d’étudiants prévu : 80.
+
+3. Perspectives du parcours :
+- Préparer un mastère (recherche ou appliqué)
+- Intégrer une école d’ingénieurs
+- Intégration dans la vie active (secteur public ou privé)
+
+Plan d’études :
+
+Semestre 1 :
+- Algèbre I
+- Analyse I
+- Algorithmique et structures de données
+- Atelier de programmation 1
+- Système d’exploitation 1
+- Systèmes logiques & architecture des ordinateurs
+- Logique formelle
+- Technologies multimédia
+- Anglais 1
+- Techniques de communication 1
+
+Semestre 2 :
+- Algèbre 2
+- Analyse 2
+- Atelier de programmation 2 (C)
+- Programmation Python
+- Système d’exploitation 2
+- Fondements des réseaux
+- Fondements des bases de données
+- Anglais 2
+- Techniques de communication 2
+
+Semestre 3 :
+- Théorie des langages & automates
+- Graphes et optimisation
+- Conception des SI
+- Programmation Java
+- Ingénierie des bases de données
+- Services réseaux
+- Anglais 3
+- Gestion d’entreprise
+- Programmation C++
+- Entrepôts de données
+- Programmation web
+- Compilation
+- Test logiciel (ISTQB)
+- Programmation IA
+- Anglais 4
+- Droit et éthique informatique
+- Projet fédérateur (agile)
+
+Semestre 4 :
+- Bases de données
+- Systèmes & programmation
+- Technologies Internet 2
+- Formation socio-professionnelle
+- Unités optionnelles :
+  * SGBD (admin & concurrence)
+  * Environnement de développement
+  * Système d’exploitation 2
+  * Programmation web 2
+  * Animation & jeux
+  * E-learning / tutorat
+  * Travail collaboratif
+  * ERP et intégration des SI
+  * Anglais / Français
+  * Culture d’entreprise
+  * Compilation avancée
+  * Bases de données avancées
+
+Semestre 5 :
+- Big Data & Frameworks
+- Machine Learning
+- Anglais 5
+- Préparation professionnelle
+- ITIL
+
+Semestre 6 :
+- Stage en entreprise
+
+ # LICENCE EN INFORMATIQUE DÉCISIONNELLE
+
+## Objectif :
+La Licence en Informatique Décisionnelle a pour objectif de former, en trois ans après le baccalauréat, des compétences en systèmes d’aide à la prise de décision et d’analyse des données.
+
+## Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre prévu des étudiants : 20.
+
+## Perspectives du parcours :
+- Préparer un mastère de recherche ou un mastère appliqué dans le domaine informatique.
+- Intégrer une école d’ingénieurs ou se présenter aux différents concours de recrutement exigeant un niveau de licence.
+- Intégrer la vie active, que ce soit pour son propre compte ou au profit d’un organisme public ou privé. Une partie de la formation est consacrée à l’enseignement de modules à caractère professionnel répondant à des besoins industriels.
+
+## Plan d’étude :
+### Semestre 1 :
+1. Algorithmique et structures de données 1
+2. Systèmes d’exploitation
+3. Systèmes logiques et architecture des ordinateurs
+4. Analyse
+5. Statistiques et Probabilité
+6. Principes de gestion
+7. Comptabilité générale
+8. Soft Skills et culture 1 : Compétences numériques, Business communication 1, Projet professionnel personnel
+9. **Unités optionnelles** : Programmation événementielle, Interface Homme-Machine
+
+### Semestre 2 :
+1. Algorithmique et structures de données 2
+2. Fondements des réseaux
+3. Introduction aux systèmes d’informations
+4. Mathématiques 2 : Logique mathématique, Algèbre
+5. Gestion 2 : Gestion financière
+6. Soft Skills et culture 2 : Business communication 2, Techniques de communication (en français)
+7. **Unités optionnelles** : Stratégie de résolution de problèmes, Certification PIX
+
+### Semestre 3 :
+1. Programmation avancée 1 : Programmation orientée objet, Programmation web 1
+2. Conception et bases de données : Conception orientée objet des systèmes d’information, Bases de données
+3. Statistiques et IA : Statistiques inférentielles, Fondements de l’IA
+4. Digital Business : Marketing digital, Économie numérique
+5. Soft Skills et culture 3 : Éthique et lois des IT, Projet fédéré (méthode Agile)
+6. **Unités optionnelles** : Compilation, Théorie des graphes et optimisation
+
+### Semestre 4 :
+1. Analyse des données et Programmation avancée 2 : Analyse et fouille de données, Programmation web 2
+2. Théorie des graphes et recherche opérationnelle
+3. Ingénierie des logiciels : Atelier de génie logiciel, Architecture logicielle
+4. Bases de données : SGBD, Modélisation multidimensionnelle et entrepôt de données
+5. Soft Skills et culture 4 : Entrepreneuriat, Leadership (en anglais), Préparation à l’environnement professionnel
+6. **Unités optionnelles** : Réseau informatique, Certification JAVA
+
+### Semestre 5 :
+1. Sciences de la décision : Techniques de prévision, Fondements de la théorie de décision
+2. Environnements évolués : Introduction au Big Data et Cloud, Développement mobile
+3. Technologie de l’information : Gestion de la technologie de l’information (ERP, SCM), Fondamentaux de la sécurité IT
+4. Analyse des données et Programmation avancée 3 : Langages de programmation évolués-BI, Conception TB et scoring
+5. Soft Skills et culture : Gestion de projet, Psychology & Sociology for online media applications
+6. **Unités optionnelles** : E-CRM, Blockchain
+
+### Semestre 6 :
+- Stage en entreprise
+
+---
+
+# LICENCE EN SCIENCE DE L’INFORMATIQUE
+## Spécialité : Informatique et Multimédia
+
+## Objectif :
+La Licence en Science de l’Informatique « Computer Science » : parcours Informatique et Multimédia a pour objectif de former, en trois ans après le baccalauréat, des compétences en systèmes d’information et en applications multimédia.
+
+## Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre prévu des étudiants : 80.
+
+## Perspectives professionnelles :
+- Intégrateur d’applications et systèmes multimédia
+- Développeur d’applications multimédia
+- Testeur de produits
+
+## Perspectives académiques :
+- Mastères de recherche en informatique
+- Mastères professionnels en informatique
+- Écoles d’ingénieurs
+
+## Plan d’étude :
+### Semestre 1 :
+1. Algèbre 1
+2. Analyse 1
+3. Algorithmique et structures de données
+4. Atelier de programmation 1
+5. Système d’exploitation 1
+6. Systèmes logiques & architecture des ordinateurs
+7. Logique formelle
+8. Technologie multimédia
+9. Anglais 1 (Unité transversale)
+10. Techniques de communication 1 (Unité transversale)
+
+### Semestre 2 :
+1. Algèbre 2
+2. Analyse 2
+3. Algorithmique et structures de données et complexité
+4. Atelier de programmation 2
+5. Programmation Python
+6. Systèmes d’exploitation 2
+7. Fondements des réseaux
+8. Fondements des bases de données
+9. Anglais 2 (Unité transversale)
+10. Techniques de communication 2 (Unité transversale)
+11. Culture et compétences numériques (Unité transversale)
+
+### Semestre 3 :
+1. Probabilité statistique
+2. Théorie des langages et des automates
+3. Graphes et optimisation
+4. Conception et systèmes d’information
+5. Programmation Java
+6. Ingénierie des bases de données
+7. Services des réseaux
+8. Anglais 3 (Unité transversale)
+9. Gestion de l’entreprise (Unité transversale)
+10. C++ (Unité optionnelle)
+
+### Semestre 4 :
+1. Numérisation et codage des objets multimédia
+2. Traitement d’images numériques
+3. Infographie
+4. Technologies et programmation web
+5. Développement des applications mobiles
+6. Fondement & programmation IA
+7. Tests de logiciels
+8. Anglais 4 (Unité transversale)
+9. Droit informatique, protection des données et éthique (Unité transversale)
+10. Projet fédéré (méthode agile) (Unité transversale)
+11. Physique multimédia (Unité optionnelle)
+12. Animation 2D (Unité optionnelle)
+
+### Semestre 5 :
+1. Framework & technologies Big Data
+2. Virtualisation et cloud
+3. Architecture SOA et service Web
+4. Technique d’indexation et de référencement
+5. Réalité virtuelle et réalité augmentée
+6. Maillage 2D/3D
+7. Développement des applications web et multimédia (J2EE, .Net)
+8. Anglais 5 (Unité transversale)
+9. Entreprenariat (Unité transversale)
+10. Préparation à l’environnement professionnel (Unité transversale)
+11. Animation 2D avancée (Unité optionnelle)
+12. Animation 3D (Unité optionnelle)
+
+### Semestre 6 :
+- Stage en entreprise
+
+# LICENCE EN INGÉNIERIE DES SYSTÈMES INFORMATIQUES
+## Spécialité : Ingénierie des Réseaux et des Systèmes (E-Services)
+
+### Objectif :
+La Licence appliquée en Informatique de Gestion, Parcours E-Services, a pour objectif de former, en trois ans après le baccalauréat, des compétences au fait des dernières technologies et pleinement intégrées dans le monde de l’entreprise. Outre les compétences techniques, la formation doit permettre aux futurs diplômés d’acquérir l’ensemble des concepts liés au commerce à distance.
+
+### Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre prévu des étudiants : 80.
+
+### Perspectives professionnelles :
+- Préparer un mastère de recherche ou un mastère appliqué dans le domaine d’Informatique de Gestion à dominante E-Services.
+- Intégrer une école d’ingénieurs ou se présenter aux différents concours de recrutement exigeant un niveau de licence.
+- Intégrer la vie active, que ce soit pour son propre compte ou au profit d’un organisme public ou privé. Une partie de la formation est consacrée à l’enseignement de modules à caractère professionnel répondant à des besoins industriels.
+
+### Plan d’étude :
+**Semestre 1 :**
+1. Mathématiques 1 et Comptabilité
+2. Système 1
+3. Programmation 1
+4. Gestion et Économie
+5. Formation Socioprofessionnelle
+6. **Unités optionnelles :**
+   - Algèbres 1
+   - Analyse 1
+   - Comptabilité Générale
+   - Atelier Systèmes d’Exploitation
+   - Architecture des Ordinateurs
+   - Algorithmique et Structures de Données 1
+   - Atelier de Programmation 1
+   - Principes de Gestion
+   - Économie Générale
+   - Anglais
+   - C2i
+   - Droit de l’Homme
+   - Atelier Électronique
+   - Programmation C
+
+**Semestre 2 :**
+1. Mathématiques 2 et Finance
+2. Système 2 et Réseaux
+3. Programmation 2
+4. Médiation
+5. Formation Socioprofessionnelle
+6. **Unités optionnelles :**
+   - Statistiques et Probabilités
+   - Gestion Financière
+   - Systèmes d’Exploitation 1
+   - Réseaux Informatiques
+   - Algorithmique et Structures de Données 2
+   - Atelier de Programmation 2
+   - Assistance aux Usagers
+   - Médiation et Monitorat de l’Internet
+   - Anglais
+   - C2i
+   - Droit de l’Homme
+   - Atelier des Systèmes d’Exploitation
+   - Langage à Balise
+
+**Semestre 3 :**
+1. Mathématiques 3
+2. Programmation 3
+3. Systèmes d’Information
+4. Technologies Internet et Webmarketing
+5. Formation Socioprofessionnelle
+6. **Unités optionnelles :**
+   - Probabilité et Statistique 2
+   - Programmation Orientée Objet
+   - Programmation Web 1
+   - Bases de Données
+   - Méthodes de Conception Orientées Objet
+   - Fonctionnalités d’Intranet
+   - Internet et Stratégies Commerciales
+   - Analyse du Comportement de l’Internaute
+   - Anglais
+   - Culture de l’Entreprise
+   - Français
+   - Atelier : Bases de Données
+   - Structures de Données Avancées
+
+**Semestre 4 :**
+1. Bases de Données
+2. Système et Programmation
+3. Technologies Internet 2
+4. Formation Socioprofessionnelle
+5. **Unités optionnelles :**
+   - SGBD (Administration des BD, Contrôle de Concurrence)
+   - Environnement de Développement
+   - Système d’Exploitation 2
+   - Programmation Web 2
+   - Animation et Jeux
+   - Tutorat en E-Learning
+   - Travail Collaboratif
+   - ERP et Intégration des SI
+   - Anglais
+   - Culture de l’Entreprise
+   - Français
+   - Théorie des Langages et Compilation
+   - Bases de Données Avancées
+
+**Semestre 5 :**
+1. Sécurité
+2. Génie Logiciel et Conduite de Projets
+3. Services sur Internet
+4. Formation Socioprofessionnelle
+5. **Unités optionnelles :**
+   - Sécurité Informatique
+   - Paiements Électroniques
+   - Éléments de Génie Logiciel
+   - Gestion de Projets
+   - Techniques de Veille
+   - Qualité des Services TIC
+   - Usages Professionnels d’Internet et d’Intranet
+   - Anglais
+   - Culture de l’Entreprise
+   - Techniques de Communication
+   - Administration des Bases de Données
+   - Mini-Projet
+
+**Semestre 6 :**
+- Stage en entreprise
+
+---
+
+# LICENCE EN INGÉNIERIE DES SYSTÈMES INFORMATIQUES
+## Spécialité : Systèmes Embarqués et IoT
+
+### Objectif :
+La Licence en Ingénierie des Systèmes Informatiques « Computer Engineering » : parcours Systèmes Embarqués & IoT a pour objectif de former, en trois ans après le baccalauréat, des compétences en informatique capables de concevoir, analyser, évaluer, développer, implanter et assurer la maintenance des systèmes embarqués avec ses composantes aussi bien matérielles que logicielles.
+
+### Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre prévu des étudiants : 80.
+
+### Perspectives professionnelles :
+- **IoT Chef Officier / Analyste de données spécifiques IoT :** Valoriser les données collectées à partir de l’IoT pour les transformer en valeur d’affaires ou améliorer la prise de décision.
+- **Intégrateur IoT :** Intégrer des solutions IoT en exploitant des plateformes.
+- **Concepteur de solutions informatiques embarquées :** Concevoir des programmes sur mesure en fonction des besoins des utilisateurs.
+- **Développeur d’applications informatiques embarquées :** Développer, améliorer et mettre en œuvre des applications embarquées.
+- **Testeur de produits :** Déployer des stratégies de tests, écrire et automatiser des scénarios de test (ISTQB).
+
+### Perspectives académiques :
+- Mastères de recherche en informatique
+- Mastères professionnels en informatique
+- Écoles d’ingénieurs
+
+### Plan d’étude :
+**Semestre 1 :**
+1. Algèbre 1
+2. Analyse 1
+3. Électricité-Électronique
+4. Propagation et Rayonnement
+5. Système d’Exploitation 1
+6. Systèmes Logiques
+7. Algorithmique et Structures de Données
+8. Atelier de Programmation 1
+9. Anglais 1 (Unité Transversale)
+10. Techniques de Communication 1 (Unité Transversale)
+
+**Semestre 2 :**
+1. Algèbre 2
+2. Analyse 2
+3. Fonctions Électroniques
+4. Initiation au Traitement du Signal
+5. Architecture des Ordinateurs
+6. Transmission de Données
+7. Algorithmique et Structures de Données et Complexité
+8. Atelier de Programmation 2
+9. Systèmes d’Exploitation 2
+10. Anglais 2 (Unité Transversale)
+11. Techniques de Communication 2 (Unité Transversale)
+
+**Semestre 3 :**
+1. Graphes et Optimisation
+2. Probabilité Statistique
+3. Réseaux Locaux
+4. Technologies Multimédia
+5. Méthodologie de Conception de Logiciel
+6. Fondement des Bases de Données
+7. Programmation Orientée Objet
+8. Sécurité Informatique
+9. Anglais 3 (Unité Transversale)
+10. Gestion de l’Entreprise (Unité Transversale)
+11. Architecture Avancée des Processeurs (Unité Optionnelle)
+12. Certification sur les Technologies Java (Unité Optionnelle)
+
+**Semestre 4 :**
+1. Programmation Web
+2. Développement Mobile
+3. Conception des Circuits Logiques & Synthèse VHDL
+4. Capteurs et Instrumentation
+5. Test Logiciel
+6. Système sur Puce (SoC)
+7. Anglais 4 (Unité Transversale)
+8. Droit Informatique, Protection des Données et Éthique (Unité Transversale)
+9. Projet Fédéré (Méthode Agile) (Unité Transversale)
+10. Développement des Applications Réparties (Unité Optionnelle)
+11. Certification Technologie Middleware (Unité Optionnelle)
+
+**Semestre 5 :**
+1. Intelligence Artificielle et Machine Learning
+2. Réseaux Industriels
+3. Architecture IoT
+4. Sécurité IoT
+5. Conception des Systèmes Numériques (Co-Design)
+6. Technologie des Réseaux sans Fil pour l’IoT
+7. Systèmes Temps Réel
+8. Programmation pour Cible Embarquée
+9. Anglais 5 (Unité Transversale)
+10. Entrepreneuriat (Unité Transversale)
+11. Préparation à l’Environnement Professionnel (Unité Transversale)
+12. Big Data (Unité Optionnelle)
+13. Certification en Gestion de Projet (Unité Optionnelle)
+
+**Semestre 6 :**
+- Stage en entreprise
+
+ # LICENCE EN INFORMATIQUE DE GESTION
+## Spécialité : E-Services
+
+### Objectif :
+La Licence appliquée en Informatique de Gestion, Parcours E-Services, a pour objectif de former, en trois ans après le baccalauréat, des compétences au fait des dernières technologies et pleinement intégrées dans le monde de l’entreprise. Outre les compétences techniques, la formation doit permettre aux futurs diplômés d’acquérir l’ensemble des concepts liés au commerce à distance.
+
+### Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre prévu des étudiants : 80.
+
+### Perspectives professionnelles :
+- Préparer un mastère de recherche ou un mastère appliqué dans le domaine d’Informatique de Gestion à dominante E-Services.
+- Intégrer une école d’ingénieurs ou se présenter aux différents concours de recrutement exigeant un niveau de licence.
+- Intégrer la vie active, que ce soit pour son propre compte ou au profit d’un organisme public ou privé. Une partie de la formation est consacrée à l’enseignement de modules à caractère professionnel répondant à des besoins industriels.
+
+### Plan d’étude :
+**Semestre 1 :**
+1. Mathématiques 1 et Comptabilité
+2. Système 1
+3. Programmation 1
+4. Gestion et Économie
+5. Formation Socioprofessionnelle
+6. **Unités optionnelles :**
+   - Algèbres 1
+   - Analyse 1
+   - Comptabilité Générale
+   - Atelier Systèmes d’Exploitation
+   - Architecture des Ordinateurs
+   - Algorithmique et Structures de Données 1
+   - Atelier de Programmation 1
+   - Principes de Gestion
+   - Économie Générale
+   - Anglais
+   - C2i
+   - Droit de l’Homme
+   - Atelier Électronique
+   - Programmation C
+
+**Semestre 2 :**
+1. Mathématiques 2 et Finance
+2. Système 2 et Réseaux
+3. Programmation 2
+4. Médiation
+5. Formation Socioprofessionnelle
+6. **Unités optionnelles :**
+   - Statistiques et Probabilités
+   - Gestion Financière
+   - Systèmes d’Exploitation 1
+   - Réseaux Informatiques
+   - Algorithmique et Structures de Données 2
+   - Atelier de Programmation 2
+   - Assistance aux Usagers
+   - Médiation et Monitorat de l’Internet
+   - Anglais
+   - C2i
+   - Droit de l’Homme
+   - Atelier des Systèmes d’Exploitation
+   - Langage à Balise
+
+**Semestre 3 :**
+1. Mathématiques 3
+2. Programmation 3
+3. Systèmes d’Information
+4. Technologies Internet et Webmarketing
+5. Formation Socioprofessionnelle
+6. **Unités optionnelles :**
+   - Probabilité et Statistique 2
+   - Programmation Orientée Objet
+   - Programmation Web 1
+   - Bases de Données
+   - Méthodes de Conception Orientées Objet
+   - Fonctionnalités d’Intranet
+   - Internet et Stratégies Commerciales
+   - Analyse du Comportement de l’Internaute
+   - Anglais
+   - Culture de l’Entreprise
+   - Français
+   - Atelier : Bases de Données
+   - Structures de Données Avancées
+
+**Semestre 4 :**
+1. Bases de Données
+2. Système et Programmation
+3. Technologies Internet 2
+4. Formation Socioprofessionnelle
+5. **Unités optionnelles :**
+   - SGBD (Administration des BD, Contrôle de Concurrence)
+   - Environnement de Développement
+   - Système d’Exploitation 2
+   - Programmation Web 2
+   - Animation et Jeux
+   - Tutorat en E-Learning
+   - Travail Collaboratif
+   - ERP et Intégration des SI
+   - Anglais
+   - Culture de l’Entreprise
+   - Français
+   - Théorie des Langages et Compilation
+   - Bases de Données Avancées
+
+**Semestre 5 :**
+1. Sécurité
+2. Génie Logiciel et Conduite de Projets
+3. Services sur Internet
+4. Formation Socioprofessionnelle
+5. **Unités optionnelles :**
+   - Sécurité Informatique
+   - Paiements Électroniques
+   - Éléments de Génie Logiciel
+   - Gestion de Projets
+   - Techniques de Veille
+   - Qualité des Services TIC
+   - Usages Professionnels d’Internet et d’Intranet
+   - Anglais
+   - Culture de l’Entreprise
+   - Techniques de Communication
+   - Administration des Bases de Données
+   - Mini-Projet
+
+**Semestre 6 :**
+- Stage en entreprise
+
+---
+
+# LICENCE EN DROIT PRIVÉ
+
+### Objectif :
+Cette discipline est réservée aux étudiants dits privatistes. La formation comprend le « noyau dur » du Droit privé : Droit international privé, Droit pénal, Droit de la famille, Droit des contrats, Droit des sociétés, etc. Les études de Droit privé offrent de multiples débouchés à condition de préparer convenablement son projet professionnel.
+
+### Conditions d’admission :
+- Être titulaire d’un Baccalauréat ou d’un diplôme jugé équivalent.
+- Nombre prévu des étudiants : 80.
+
+### Perspectives professionnelles :
+Les titulaires de cette licence peuvent occuper les postes suivants :
+- Domaine judiciaire : Avocats, Magistrats, Huissiers de justice, Greffiers.
+- Entreprise : Conseiller juridique, Fiscaliste, Service contentieux, Service financier ou commercial.
+- Fonction publique d’État et territoriale.
+- Banques et Assurances.
+- Cabinets juridiques.
+- Administrations d’État ou de collectivités locales.
+
+### Plan d’étude :
+**Semestre 1 :**
+1. Droit objectif
+2. Droit constitutionnel I
+3. Institutions internationales
+
+**Semestre 2 :**
+1. Droit des biens
+2. Droit subjectif
+3. Droit constitutionnel II
+
+**Semestre 3 :**
+1. Théorie générale des obligations
+2. Droit pénal
+3. Droit foncier
+
+**Semestre 4 :**
+1. Droit judiciaire privé
+2. Droit commercial
+3. Procédures pénales
+
+**Semestre 5 :**
+1. Sûretés et contrats spéciaux
+2. Droit des sociétés commerciales
+3. Droit de succession
+
+**Semestre 6 :**
+1. Droit international privé
+2. Droit social
+3. Procédures collectives
+
+# LICENCES EN GESTION & MANAGEMENT
+
+## LICENCE EN MANAGEMENT
+
+### Objectif :
+La Licence nationale en Management a pour objectif de :
+- Approfondir les connaissances pédagogiques de l’étudiant et développer un esprit critique, de synthèse et d’analyse.
+- Développer chez l’étudiant la prise d’initiative et l’esprit de création des PME.
+- Préparer l’étudiant pour la vie professionnelle.
+- Développer les compétences techniques pour agir dans un environnement national et international.
+- Développer les habiletés en communication et management interculturels pour assumer des postes de responsabilités dans une organisation nationale et internationale.
+- Permettre à l’étudiant de lancer sa propre activité.
+
+### Conditions d’admission :
+- Être titulaire d’un Bac ou équivalent.
+- Nombre prévu des étudiants : 80.
+
+### Perspectives professionnelles :
+Les titulaires de cette licence peuvent occuper les postes suivants :
+- Assistant de gestion PME
+- Assistant RH
+- Contrôleur de gestion
+- Adjoint de direction opérationnelle
+- Assistant chef de projet
+- Gestionnaire de centre de profit
+- Adjoint du directeur financier
+
+### Perspectives académiques :
+Les étudiants les plus distingués peuvent poursuivre leurs études dans :
+- Mastères de recherche
+- Mastères professionnels
+
+### Plan d’étude :
+**Semestre 1 :**
+1. Principes de gestion
+2. Comptabilité Financière I
+3. Microéconomie
+4. Mathématique I
+5. Introduction au droit
+6. Mathématiques financières
+7. Anglais
+8. C2I
+
+**Semestre 2 :**
+1. Gestion des Ressources Humaines
+2. Management & Leadership
+3. Statistiques descriptives
+4. Mathématique II
+5. Comptabilité Financière II
+6. Macroéconomie
+7. Droit des sociétés commerciales
+8. Anglais
+9. C2I
+
+**Semestre 3 :**
+1. Fondamentaux du Management
+2. Comptabilité de gestion
+3. Fondamentaux du Marketing
+4. Organisation de journées thématiques
+5. Anglais
+6. Développement personnel I
+7. Fiscalité
+8. Statistique Inférentielle
+
+**Semestre 4 :**
+1. Fondamentaux de la GRH
+2. Diagnostic Financier
+3. Gestion de la Production
+4. Méthodologie d’élaboration d’un rapport de stage
+5. Anglais
+6. Développement personnel II
+7. **Option 1 :** Théorie financière
+8. **Option 2 :** Management contemporain
+
+**Semestre 5 :**
+1. Théorie des organisations
+2. Analyses quantitatives et qualitatives
+3. Management de projet
+4. Management de la qualité et certification
+5. Élaboration et validation du rapport de stage
+6. Anglais
+7. Culture entrepreneuriale
+8. **Option 1 :** Management intégré et responsabilité sociétale
+9. **Option 2 :** Audit intégré QSE
+
+**Semestre 6 :**
+1. Management de l’innovation et entrepreneuriat
+2. Management de la transformation digitale et système d’information
+3. Management stratégique
+4. Contrôle de gestion
+5. Projet Tutoré
+6. Anglais
+7. Webdesign
+8. **Option 1 :** E-GRH
+9. **Option 2 :** Gestion internationale des RH
+
+---
+
+## BACHELOR EN BUSINESS ADMINISTRATION
+### (Cadre Européen de Qualification Niveau 6)
+
+### Objectif :
+Le Bachelor’s Degree in Business Administration a pour objectif de former, en trois ans (en parallèle avec les études en Licence de Gestion SUPTECH), des spécialistes ouverts à l’environnement européen et international.
+
+### Conditions d’admission :
+- Être titulaire d’une Licence de Gestion SUPTECH (une année d’études) ou suivre cette formation en ligne en parallèle pendant les 3 ans d’études en Licence à SUPTECH.
+- Nombre prévu des étudiants : 80.
+
+### Perspectives professionnelles :
+Les titulaires de ce Bachelor peuvent occuper un poste de Manager (Qualification européenne niveau 6).
+
+### Perspectives académiques :
+Les étudiants les plus distingués peuvent poursuivre leurs études dans :
+- Master of Business Administration (MBA), un diplôme international d’études supérieures en gestion des entreprises.
+- Mastères de recherche.
+- Mastères professionnels.
+
+### Plan d’étude :
+**Administration des Affaires (Cadre Européen Qualification Niveau 6 – 180 ECTS)**
+
+**Première année :**
+1. SECS-P / 12 : Histoire économique
+2. SECS-P / 07 : Économie d’entreprise
+3. SECS-S / 01 : Statistiques
+4. SECS-P / 02 : Politique économique
+5. SECS-P / 07 : Comptabilité générale et appliquée
+6. SECS-P / 07 : Méthodes et déterminations quantitatives d’entreprises
+7. Langue anglaise
+
+**Deuxième année :**
+1. Stratégie de communication
+2. SECS-S / 06 : Mathématiques financières
+3. SECS-P / 11 : Économie des intermédiaires financiers
+4. SECS-P / 06 : Économie appliquée
+5. SECS-P / 08 : Organisation d’entreprise
+
+**Troisième année :**
+1. SECS-P / 08 : Économie et Gestion
+2. SECS-P / 01 : Économie politique
+3. SECS-S / 03 : Statistiques économiques
+4. Compétences informatiques
+5. Cours de choix
+6. Stages en entreprises
+7. Examen final
+
+
+Licence en Commerce et Finance Internationale : 
+
+1. Objectif: 
+La Licence nationale en commerce et finance internationale a pour objectif de : 
+– Développer les techniques de commerce international chez les étudiants. 
+– Développer les compétences linguistiques pour agir dans un environnement 
+international 
+– Développer les habiletés en communication et management interculturels pour pouvoir 
+assumer des postes de responsabilités dans une organisation internationale 
+– Approfondir les connaissances pédagogiques de l’étudiant et développer un esprit 
+critique de synthèse et d’analyse 
+– Développer la prise d’initiative et l’esprit de création des PME 
+–  Préparation pour la vie professionnelle 
+2. Conditions d’admission: 
+Etre titulaire d’un Bac ou équivalent. 
+Nombre prévu des étudiants : 80 étudiants 
+3. Perspectives professionnelles du parcours: 
+Les titulaires de cette licence peuvent occuper le poste de : 
+– Assistant(e) commercial(e) export 
+– Assistant achat 
+– Commercial(e) export 
+– Acheteur (se) 
+– Assistant(e) chef de produits international 
+– Gestionnaire de commandes export 
+– Assistant(e) import 
+– Assistant(e) négoce international 
+– Opérateur trading 
+– Spécialiste ordonnancement Approvisionnements internationaux 
+– Gestionnaire de stocks / distribution internationale 
+– Opérateur transport / douane 
+
+– Gestionnaire logistique de projets industriels 
+– Assistant(e) service après-vente export 
+– Assistant(e) logistique 
+4. Perspectives académiques du parcours: 
+Les étudiants les plus distinguées peuvent poursuivre leurs études dans : 
+–  Des mastères de recherche 
+–  Des mastères professionnels 
+Plan d’étude 
+Semestre 1 
+1. Principes d’économie 
+2. Principes de gestion 
+3. Comptabilité financière 1 
+4. Analyse 
+5. Statistique descriptive et calculs des Probabilités 
+6. Anglais 
+7. Français 
+8. C2I 
+Semestre 2 
+1. Microéconomie 1 
+2. Macroéconomie 1 
+3. Comptabilité financière 2 
+4. Algèbre 
+5. Principes de droit 
+6. Anglais 
+7. Français 
+C2I 
+Semestre 3 
+1. Microéconomie 2 
+2. Macroéconomie 2 
+3. Histoire des faits et de la pensée économique 
+
+4. Conférences carrières 
+5. Les métiers de l’économiste 
+6. Anglais 
+7. Français 
+8. Culture entrepreneuriale 
+9. Option 1 : Economie contemporaine 
+10. Option 2 : Environnement du commerce international 
+Semestre 4 
+1. Economie internationale 
+2. Economie industrielle 
+3. Economie Monétaire 
+4. Statistique inférentielle 
+5. Communication skills 
+6. Méthodologie d’élaboration d’un rapport de stage 
+7. Anglais 
+8. Business model 
+9. Option 1 : Economie de la banque et de l’assurance 
+10. Option 2 : IDE et firmes multinationales 
+Semestre 5 
+1. Initiation à l’économétrie 
+2. Finance internationale 
+3. Droit du commerce international 
+4. Politiques commerciales 
+5. Soutenance du rapport de stage 
+6. Gestion de carrière et techniques de recherche d’emploi 
+7. Business English 
+8. Développement personnel 
+9. Option 1 : Marchés et produits financiers 
+10. Option 2 : Commerce et accords internationaux 
+Semestre 6 
+1. Enquête et sondage 
+2. Stratégies internationales des firmes 
+
+3. Techniques financières internationales 
+4. PFE : étude de cas, plan d’affaires ou autres 
+5. Business English 
+6. Analyse et évaluation des projets 
+7. Option 1 : Les nouvelles théories du commerce international 
+8. Option 2 : Gestion des affaires commerciales 
+ 
+Licence en Gestion Spécialité : Marketing : 
+ 
+1. Objectif: 
+La Licence nationale en marketing a pour objectif de former, en trois ans après le 
+baccalauréat, des cadres en marketing, destinés à occuper des postes opérationnels, et 
+à terme stratégiques, couvrant le vaste champ du marketing et de ses nouveaux métiers. 
+2. Conditions d’admission: 
+Etre titulaire d’un Bac ou équivalent. 
+Nombre prévu des étudiants : 80 étudiants 
+3. Perspectives professionnelles du parcours: 
+Les titulaires de cette licence peuvent occuper le poste de : 
+ Assistant marketing 
+ Responsable de la relation client 
+ Responsable fidélisation 
+ Responsable e-commerce 
+ Responsable acquisition clients 
+ Responsable des partenariats Marketing 
+ Responsable après-vente 
+ Responsable communication multicanal 
+4. Perspectives académiques du parcours: 
+Les étudiants les plus distinguées peuvent poursuivre leurs études dans : 
+–  Des mastères de recherche 
+–  Des mastères professionnels 
+Plan d’étude 
+Semestre 1 
+1. Principes de gestion 
+2. Comptabilité Financière I 
+3. Micro / Macro économie 
+
+4. Anglais 
+5. C2I 
+6. Principes de droit 
+7. Maths (Analyse et Algèbre) 
+Semestre 2 
+1. Marketing 
+2. Gestion des Ressources Humaines 
+3. Management & Leadership 
+4. Anglais 
+5. C2I 
+6. Statistiques 
+7. Comptabilité financière 2 
+Semestre 3 
+1. Gestion de la production 
+2. Comptabilité de gestion 
+3. Finance 
+4. Organisation de journées thématiques 
+5. Anglais 
+6. Développement personnel I 
+7. Droit des affaires 
+8. Economie des affaires 
+Semestre 4 
+1. Stratégie marketing 
+2. Comportement du consommateur 
+3. Recherche marketing 
+4. Séminaire : Préparation d’unRapport de stage 
+5. Anglais 
+6. Développement personnel II 
+7. Option 1 : Techniques de Vente 
+8. Option 2 : Innovation Managériale 
+Semestre 5 
+1. Communication marketing 
+
+2. Distribution 
+3. Gestion des prix et des produits 
+4. Soutenance rapport de stage 
+5. Anglais 
+6. Culture entrepreneuriale 
+7. Option 1 : Commerçants et actes de commerce 
+Option  2 : Commerce électronique 
+Semestre 6 
+1. Analyses des données marketing 
+2. Marketing des services 
+3. Marketing digital 
+4. Séminaire: Préparation d’un mini-mémoire ou projet 
+5. Anglais 
+6. Webdesign 
+7. Option 1 : Marketing international 
+8. Option 2 : Commerce international 
+ 
+Licence en Gestion Spécialité : Finance : 
+1. Objectif: 
+La Licence  en Gestion : spécialité Finance a pour objectif de former, en trois ans après 
+le baccalauréat, des spécialistes en la matière : 
+ Aptes à maitriser les techniques financières modernes et les aspects juridiques et fiscaux des opérations 
+financières complexes 
+ Préparés à intégrer la dimension globales des problèmes à traiter et notamment leurs enjeux stratégiques 
+Ouverts à l’environnement international. 
+2. Conditions d’admission: 
+Etre titulaire d’un Bac ou équivalent. 
+Nombre prévu des étudiants : 80 étudiants 
+3. Perspectives professionnelles du parcours: 
+Les titulaires de cette licence peuvent occuper le poste de : 
+ spécialiste de la finance quantitative. 
+ responsable de l’ingénierie financière dans les entreprises. 
+ responsable de l’évaluation et de la prévision du risque. 
+ responsable de la conception et de la production de nouveaux produits financiers et d’assurance. 
+
+ responsable de la tarification des produits financiers et d’assurance. 
+ Courtier ou agent général d’assurance 
+4. Perspectives académiques du parcours: 
+Les étudiants les plus distinguées peuvent poursuivre leurs études dans : 
+–  Des mastères de recherche 
+–  Des mastères professionnels 
+ 
+
+Plan d’étude 
+Semestre 1 
+Introduction Au Droit 
+Mathématiques 1 : Analyse 
+Principes De Gestion 1 : Environnement Et Fonctions De L’entreprise 
+Langues (Unité Transversale) 
+Comptabilité Financière 1 
+Microéconomie 
+Aptitudes En TIC 1 (Unité Transversale) 
+Intro À L’économie Des Affaires (Unité Optionnelle) 
+Semestre 2 
+Mathématiques 2:Algébre 
+Macroéconomie 
+Principes De Gestion 2 : Le Processus De Gestion 
+Langues (Unité Transversale) 
+Introduction À La Fiscalité (Unité Optionnelle) 
+Statistiques Descriptives Et Probabilité 
+Comptabilité Financière 2 
+Aptitudes En TIC 2 (Unité Transversale) 
+Microéconomie Appliquée (Unité Optionnelle) 
+Semestre 3 
+Statistique Inférencielle 
+Gestion De La Production 
+Marketing 
+Langues (Unité Transversale) 
+Introduction À La Fiscalité (Unité Optionnelle) 
+Finance 
+
+Management Et Leadership 
+Aptitudes En TIC 3 (Unité Transversale) 
+Elaboration Des États Financiers (Unité Optionnelle) 
+Semestre 4 
+Entrepreneuriat 
+Economie Des Affaires 
+Comptabilité De Gestion 
+Langues (Unité Transversale) 
+Economie Monétaire (Unité Optionnelle) 
+Gestion Des Ressources Humaines 
+Droit Des Affaires 
+Développement Personnel1 (Unité Transversale) 
+Droit Des Sociétés (Unité Optionnelle) 
+Semestre 5 
+Econométrie 
+Décisions Financières 
+5. Anglais (Unité Transversale) 
+Evaluation De L’entreprise 
+Informatique (Unité Transversale) 
+Semestre 6 
+Contrôle De Gestion 
+Finance Internationale 
+Anglais (Unité Transversale) 
+Gestion De Portefeuille 
+Informatique (Unité Transversale) 
+ 
+Licence en comptabilité : 
+1. Objectif: 
+
+Cette formation a pour objectifs de comprendre et assimiler les principaux mécanismes 
+et logiques de comptabilité d’une entreprise pour en assurer la gestion. 
+Elle vise à doter les étudiants de connaissances théoriques et pratiques en 
+Comptabilité.Plus précisément, cette licence a pour objectif de permettre aux étudiants 
+de maîtriser les principes, normes et procédures comptables, ainsi que les techniques 
+financières et comptables. 
+2. Conditions d’admission: 
+Etre titulaire d’un Bac ou équivalent. 
+Nombre prévu des étudiants : 80 étudiants 
+3. Perspectives professionnelles du parcours: 
+Le parcours comptabilité donne accès aux métiers de la finance et de la comptabilité au 
+sein d’entreprises dans les emplois de « Conception assisté » du type : 
+ Comptable unique ; 
+ Assistant-analyste 
+ Contrôleur de gestion 
+ Auditeur interne 
+ Assistant de maitrise et d’encadrement. 
+4. Perspectives académiques du parcours: 
+Les étudiants les plus distinguées peuvent poursuivre leurs études dans : 
+–  Des mastères de recherche 
+–  Des mastères professionnels

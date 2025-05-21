@@ -1,0 +1,108 @@
+{
+  "modes_paiement": [
+    "Paiement caisse sur place",
+    "Paiement via Western Union",
+    "Paiement par transfert par l’intermédiaire d’Ecobank (Pan African Bank)",
+    {
+      "type": "Paiement par virement bancaire",
+      "details": {
+        "banque": "AMEN BANK Agence Alain Savary",
+        "rib": "073090075101111633 44",
+        "code_bic": "CFCTTNTT"
+      }
+    }
+  ],
+  "remises_reductions": {
+    "remise_5": [
+      "Pour les inscriptions avant le 31 août",
+      "Pour les paiements au comptant"
+    ],
+    "reductions_anciens_etudiants": "Pas de majoration de 5% (prévue par la réglementation du ministère de l’enseignement supérieur)",
+    "reductions_etudiants_meritants": [
+      "40% de réduction pour les élèves ayant une moyenne supérieure à 15/20 et classés premiers de leur classe",
+      "25% de réduction pour les élèves classés premiers de leur classe ayant une moyenne inférieure à 15/20"
+    ],
+    "reductions_familles": [
+      "40% pour le deuxième enfant",
+      "50% pour le troisième enfant",
+      "Les réductions sont calculées sur les frais de scolarité les plus élevés, sur présentation d’une demande accompagnée des copies des cartes d’identité des frères/sœurs"
+    ]
+  },
+  "frais_scolarite_tunisiens": {
+    "modalites_paiement": [
+      "Acompte de 30% non remboursable (sauf en cas de force majeure), payable par virement ou par chèque",
+      "Solde payable en 2 échéances sur l’année d’enseignement"
+    ],
+    "frais_par_cycle": [
+      {
+        "cycle": "Prépa & Licence",
+        "montant_ttc_tnd": 6500,
+        "premiere_tranche_tnd": 2440
+      },
+      {
+        "cycle": "Master & Ingénieur",
+        "montant_ttc_tnd": 7500,
+        "premiere_tranche_tnd": 2840
+      }
+    ],
+    "frais_detailles": [
+      {
+        "formation": "1ère préparatoire",
+        "frais_scolarite_tnd": 6000,
+        "frais_inscription_tnd": 500,
+        "frais_encadrement_tnd": null
+      },
+      {
+        "formation": "Licence (3ème année)",
+        "frais_scolarite_tnd": 6000,
+        "frais_inscription_tnd": 500,
+        "frais_encadrement_tnd": 550
+      },
+      {
+        "formation": "Mastère (2ème année)",
+        "frais_scolarite_tnd": 7000,
+        "frais_inscription_tnd": 500,
+        "frais_encadrement_tnd": 550
+      }
+    ]
+  },
+  "frais_scolarite_internationaux": {
+    "modalites_paiement": [
+      "Acompte de 30% non remboursable (sauf en cas de refus de visa), payable par virement ou par chèque",
+      "Solde payable en 2 échéances sur l’année d’enseignement"
+    ],
+    "frais_par_cycle": [
+      {
+        "cycle": "Prépa & Licences",
+        "montant_ttc_euro": 2200,
+        "premiere_tranche_euro": 1100,
+        "deuxieme_tranche_euro": 550
+      },
+      {
+        "cycle": "Master & Ingénieur",
+        "montant_ttc_euro": 2500,
+        "premiere_tranche_euro": 1250,
+        "deuxieme_tranche_euro": 625
+      }
+    ],
+    "frais_inscription": {
+      "classes_preparatoires_licences": "200 €",
+      "cycle_ingenieur_master": "200 €"
+    }
+  },
+  "frais_supplementaires": {
+    "frais_encadrement_pfe": "550 TND (pour les classes terminales : 3ème année Licence, 2ème année Mastère, 3ème année Ingénieur)"
+  },
+  "remarques_importantes": [
+    "Toute inscription est ferme et définitive. En cas d’abandon, aucun remboursement ne sera effectué.",
+    "L’étudiant qui abandonne son cursus universitaire au cours de l’année doit payer la totalité des frais de scolarité.",
+    "Les inscriptions ne peuvent être délivrées qu’après régularisation du dossier administratif et paiement de 30% du coût annuel de la scolarité.",
+    "Tout paiement au comptant lors de l’inscription donne droit à un tarif préférentiel de 5%.",
+    "Les étudiants internationaux doivent respecter le taux de change enregistré au 01/10 de l’année en cours."
+  ],
+  "attention_arnaques": [
+    "Le recruteur ou intermédiaire s’interdit de collecter directement des fonds des étudiants ou de leurs familles pour le compte de SUPTECH.",
+    "Les étudiants doivent transférer directement les frais de scolarité à SUPTECH.",
+    "SUPTECH décline toute responsabilité en cas de paiement des frais de scolarité à un intermédiaire."
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "type": "Mastères en Gestion et Management",
+  "masters": [
+    {
+      "titre": "Master en Management des Organisations et Entrepreneuriat",
+      "objectif": [
+        "Développer l’esprit entrepreneurial chez l’étudiant.",
+        "Approfondir les connaissances pédagogiques de l’étudiant et développer un esprit critique de synthèse et d’analyse.",
+        "Développer la prise d’initiative et l’esprit de création des PME.",
+        "Préparer les étudiants à la vie professionnelle."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Économie/Gestion dans les différentes spécialités (Finance, Économie, Management, Marketing, GRH...)",
+        "nombre_etudiants": 60
+      },
+      "perspectives_professionnelles": [
+        "Gestionnaire dans une PME.",
+        "Conseil en entreprise, aux institutions financières et non financières.",
+        "Conseil en gestion financière des PME."
+      ],
+      "perspectives_academiques": [
+        "Possibilité de donner des cours et de contribuer à des études sur la PME.",
+        "Possibilité de s’inscrire dans une autre formation d’approfondissement du type MBA.",
+        "Possibilité de s’associer dans des réseaux professionnels dans le cadre du financement et de la création des PME."
+      ]
+    },
+    {
+      "titre": "Master en Marketing Digital",
+      "objectif": [
+        "Comprendre le fonctionnement des leviers de promotion sur le web.",
+        "Maîtriser le webmarketing.",
+        "Définir et mettre en place une stratégie webmarketing.",
+        "Construire un savoir-faire et un savoir-être en contexte digital.",
+        "Acquérir une vision synthétique de l’évolution du marketing digital.",
+        "Gagner en responsabilité dans le domaine de la stratégie numérique.",
+        "Accéder aux postes les plus recherchés du marché professionnel."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Économie/Gestion avec les différentes spécialités ou diplôme équivalent",
+        "nombre_etudiants": 20
+      },
+      "perspectives_professionnelles": [
+        "Brand Content Manager.",
+        "Traffic Manager.",
+        "Social Media Manager.",
+        "Chargé(e) de communication web.",
+        "Chef(fe) de projet marketing digital.",
+        "Manager de projet SEM/SMO.",
+        "Consultant(e) en communication digitale.",
+        "Consultant(e) en social media.",
+        "Consultant(e) en e-marketing.",
+        "Directeur(trice) de la communication.",
+        "Webmarketer.",
+        "Community Manager."
+      ],
+      "perspectives_academiques": [
+        "Possibilité de donner des cours et de contribuer à des études.",
+        "Possibilité de s’inscrire dans une autre formation d’approfondissement du type MBA et DBA."
+      ]
+    },
+    {
+      "titre": "Master en Droit des Affaires",
+      "objectif": [
+        "La formation en Droit des Affaires s’intéresse aux relations économiques, financières et juridiques qui peuvent exister entre différents acteurs.",
+        "Elle permet d’acquérir et d’approfondir les connaissances théoriques et pratiques en matière de droit des affaires, droit du commerce international, droit de l’arbitrage, etc."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Droit ou équivalent",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Cabinets d’avocats internationaux.",
+        "Organisations internationales et européennes.",
+        "Services juridiques des métiers des affaires."
+      ]
+    },
+    {
+      "titre": "Master en Comptabilité et Systèmes d’Information",
+      "objectif": [
+        "Former des experts et leur permettre de maîtriser les savoirs théoriques, les techniques pointues et spécifiques dans le domaine de la comptabilité, du contrôle de gestion, de la finance et de l’audit.",
+        "Compléter ces compétences par une maîtrise des aspects juridiques (sociétaires et fiscaux)."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Économie/Gestion dans les différentes spécialités (Finance, Économie, Management, Marketing, GRH...)",
+        "nombre_etudiants": 60
+      },
+      "perspectives_professionnelles": [
+        "Expert-comptable et commissaire aux comptes.",
+        "Auditeur interne.",
+        "Directeur comptable et financier.",
+        "Responsable consolidation.",
+        "Consultant.",
+        "Contrôleur de gestion.",
+        "Responsable administratif et financier."
+      ]
+    },
+    {
+      "titre": "Master en Gestion des Ressources Humaines",
+      "objectif": [
+        "Appréhender l’environnement socio-économique pour en comprendre les implications sur le management des hommes.",
+        "Maîtriser les outils et méthodes en les intégrant dans une logique stratégique des ressources humaines.",
+        "Développer leurs compétences personnelles, relationnelles, managériales et leurs qualités de communication."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Économie/Gestion dans les différentes spécialités (Finance, Économie, Management, Marketing, GRH...)",
+        "nombre_etudiants": 60
+      },
+      "perspectives_professionnelles": [
+        "Responsable des ressources humaines.",
+        "Consultant en gestion des talents.",
+        "Responsable de la formation et du développement."
+      ]
+    },
+    {
+      "titre": "Master en Finance Islamique",
+      "objectif": [
+        "Doter les actuels universitaires et futurs experts des outils et de la méthode nécessaires pour la bonne compréhension et la mise en pratique rigoureuse des préceptes islamiques relatifs à ce sujet."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Économie/Gestion dans les différentes spécialités",
+        "nombre_etudiants": "Non spécifié"
+      },
+      "perspectives_professionnelles": [
+        "Analyste financier spécialisé en finance islamique.",
+        "Consultant en produits financiers islamiques.",
+        "Responsable de la conformité Sharia."
+      ]
+    },
+    {
+      "titre": "Master en Management Intégré : Qualité, Sécurité, Environnement",
+      "objectif": [
+        "Former des responsables en management intégré qualité sécurité environnement.",
+        "Former des consultants-experts en management intégré qualité sécurité environnement.",
+        "Former des auditeurs QSE."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en gestion, en Économie ou diplôme équivalent",
+        "nombre_etudiants": 20
+      },
+      "perspectives_professionnelles": [
+        "Responsable qualité.",
+        "Responsable sécurité.",
+        "Responsable environnement."
+      ]
+    }
+  ]
+}

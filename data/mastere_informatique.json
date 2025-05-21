@@ -1,0 +1,108 @@
+{
+  "type": "Mastères en Informatique",
+  "masters": [
+    {
+      "titre": "Master en Sécurité des Systèmes Informatiques Communicants et Embarqués",
+      "objectif": [
+        "Former des spécialistes capables de spécifier et concevoir des systèmes informatiques embarqués ou distribués.",
+        "Analyser et mettre en œuvre des politiques de sécurité adaptées à des systèmes informatiques temps réel et embarqués.",
+        "Obtenir des certifications dans les domaines de la sécurité, des réseaux ou des systèmes embarqués."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Informatique, Électronique, Systèmes Embarqués ou équivalent",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Postes dans des entreprises industrielles ou informatiques.",
+        "Spécialiste en sécurité des systèmes embarqués."
+      ],
+      "perspectives_academiques": [
+        "Possibilité de s’inscrire en M2 du « Master International des Systèmes Électroniques pour Applications Embarquées et Communicantes » de l’INP de Toulouse."
+      ]
+    },
+    {
+      "titre": "Master en Cybersécurité",
+      "objectif": [
+        "Former des spécialistes immédiatement opérationnels dans les diverses technologies de la sécurité des systèmes d’information.",
+        "Comprendre les systèmes d’information, réseaux et sécurité.",
+        "Détecter les menaces des systèmes d’information et intégrer leurs impacts.",
+        "Acquérir des connaissances avancées pour sécuriser les données."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Informatique ou équivalent",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Expert/responsable cybersécurité.",
+        "Auditeur de sécurité organisationnelle et technique.",
+        "Analyste de la menace.",
+        "Spécialiste en gestion de crise cyber."
+      ]
+    },
+    {
+      "titre": "Master en Big Data et Machine Learning",
+      "objectif": [
+        "Former des analystes de données et experts en sciences de données.",
+        "Former des experts en conception, implémentation et optimisation des systèmes complexes pour le Big Data.",
+        "Former des experts en technologies relatives au Big Data, fouille de données et Machine Learning."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Sciences et Techniques, Mathématiques, ou Informatique",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Analyste de données (Data Scientist).",
+        "Architecte de systèmes d’information Big Data.",
+        "Consultant en technologies de pointe."
+      ]
+    },
+    {
+      "titre": "Master en Data Sciences",
+      "objectif": [
+        "Acquérir les compétences clés de la Data Science.",
+        "Former des spécialistes de la prise de décision basée sur l’analyse de données."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Sciences et Techniques, Mathématiques, ou Informatique",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Data Scientist.",
+        "Architecte de systèmes d’information Big Data.",
+        "Consultant en visualisation des données."
+      ]
+    },
+    {
+      "titre": "Master en Cloud Computing",
+      "objectif": [
+        "Former des experts capables de gérer le déploiement, le stockage et la sécurisation des données sur des serveurs externes (Data Centers).",
+        "Former des professionnels en virtualisation et mise en place de solutions de stockage."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Sciences et Techniques, Mathématiques, ou Informatique",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Expert en virtualisation des données.",
+        "Architecte en systèmes de stockage de données.",
+        "Consultant en technologies avancées."
+      ]
+    },
+    {
+      "titre": "Master en Intelligence Artificielle",
+      "objectif": [
+        "Former des experts en intelligence artificielle capables de concevoir des systèmes intelligents.",
+        "Développer des compétences en apprentissage automatique, vision par ordinateur et traitement du langage naturel."
+      ],
+      "conditions_admission": {
+        "niveau": "Licence en Informatique, Mathématiques ou équivalent",
+        "nombre_etudiants": "15 à 20"
+      },
+      "perspectives_professionnelles": [
+        "Ingénieur en intelligence artificielle.",
+        "Chercheur en IA.",
+        "Consultant en solutions d’intelligence artificielle."
+      ]
+    }
+  ]
+}

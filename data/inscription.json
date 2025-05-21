@@ -1,0 +1,24 @@
+{
+  "inscription": {
+    "description": "Pour vous inscrire à SUPTECH, veuillez visiter la page officielle d'inscription en ligne.",
+    "lien_inscription": "https://pre.suptech.tn/",
+    "instructions": [
+      "Cliquez sur le lien ci-dessus pour accéder au formulaire d'inscription.",
+      "Remplissez toutes les informations demandées dans le formulaire.",
+      "Téléchargez les documents requis (copie du diplôme, pièce d'identité, etc.).",
+      "Validez votre inscription en soumettant le formulaire.",
+      "Vous recevrez un email de confirmation une fois votre inscription validée."
+    ],
+    "documents_requis": [
+      "Copie du diplôme ou relevé de notes",
+      "Copie de la pièce d'identité ou passeport",
+      "Photo d'identité récente",
+      "Justificatif de paiement des frais d'inscription"
+    ],
+    "contact_support": {
+      "email": "support@suptech.tn",
+      "telephone": "+216 71 123 456",
+      "horaires": "Du lundi au vendredi, de 9h à 17h"
+    }
+  }
+}

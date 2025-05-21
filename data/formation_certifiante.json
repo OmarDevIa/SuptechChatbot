@@ -1,0 +1,180 @@
+{
+  "formations_certifiantes": {
+    "certifications_it": [
+      {
+        "nom": "Cisco",
+        "details": ["CCNA", "CCNP", "etc."]
+      },
+      {
+        "nom": "Microsoft",
+        "details": ["MCSE", "MCSA", "etc."]
+      },
+      {
+        "nom": "CompTIA",
+        "details": ["A+", "Network+", "Security+", "etc."]
+      },
+      {
+        "nom": "ITIL",
+        "details": ["Information Technology Infrastructure Library"]
+      },
+      {
+        "nom": "CISSP",
+        "details": ["Certified Information Systems Security Professional"]
+      }
+    ],
+    "certifications_gestion_projet": [
+      {
+        "nom": "PMP",
+        "details": ["Project Management Professional (PMI)"]
+      },
+      {
+        "nom": "PRINCE2",
+        "details": ["Projects IN Controlled Environments"]
+      },
+      {
+        "nom": "Agile",
+        "details": ["Scrum", "AgilePM", "etc."]
+      }
+    ],
+    "certifications_finance_comptabilite": [
+      {
+        "nom": "CFA",
+        "details": ["Chartered Financial Analyst"]
+      },
+      {
+        "nom": "CPA",
+        "details": ["Certified Public Accountant"]
+      },
+      {
+        "nom": "ACCA",
+        "details": ["Association of Chartered Certified Accountants"]
+      }
+    ],
+    "certifications_marketing_digital": [
+      "Google Ads",
+      "HubSpot",
+      "Hootsuite"
+    ],
+    "certifications_ressources_humaines": [
+      {
+        "nom": "PHR",
+        "details": ["Professional in Human Resources"]
+      },
+      {
+        "nom": "SHRM-CP",
+        "details": ["Society for Human Resource Management Certified Professional"]
+      }
+    ],
+    "certifications_langues": [
+      {
+        "nom": "TOEFL",
+        "details": ["Test of English as a Foreign Language"]
+      },
+      {
+        "nom": "DELF/DALF",
+        "details": ["Diplôme d'Études en Langue Française", "Diplôme Approfondi de Langue Française"]
+      },
+      {
+        "nom": "DELE",
+        "details": ["Diploma de Español como Lengua Extranjera"]
+      }
+    ]
+  },
+  "exigences_formation_generale": [
+    "Compétences clés générales",
+    "Métier et carrière",
+    "Humanités numériques",
+    "Langues étrangères et compétence interculturelle",
+    "Genre et diversité",
+    "Art et culture",
+    "Médias et informatique",
+    "Humanité et société",
+    "Science et technologie",
+    "Sports et santé",
+    "Économie et droit",
+    "Travailler scientifiquement",
+    "Ingénierie informatique",
+    "Ingénierie télécommunication",
+    "Arts et sciences humaines",
+    "Mathématiques",
+    "Droit",
+    "Administration des affaires et économie"
+  ],
+  "cadre_reglementaire": {
+    "lois_et_decrets": [
+      "Loi n°2008-19 du 25 février 2008 relative à l’enseignement supérieur, modifiée par le Décret-loi n°2011-31 du 26 avril 2011",
+      "Loi n°2000-73 du 25 juillet 2000 relative à l’enseignement supérieur privé, modifiée par les lois n°2006-50 et n°2008-59",
+      "Décret n°2000-2125 du 25 septembre 2000 définissant les conditions d’octroi d’une autorisation pour la création d’un établissement privé d’enseignement supérieur",
+      "Décret n°2012-1227 du 1er août 2012 fixant le cadre général du régime des études pour le diplôme national de mastère (système LMD)",
+      "Décret n°2008-3123 du 22 septembre 2008 fixant le cadre général du régime des études pour le diplôme national de licence (système LMD), modifié par le Décret n°2012-1232 et complété par le Décret n°2013-1469",
+      "Décret Présidentiel n°2022-631 du 14 juillet 2022 fixant le cadre général du régime des études pour le diplôme national de licence (système LMD)",
+      "Décret n°95-2602 du 25 décembre 1995 fixant le cadre général du régime des études pour le diplôme national d’ingénieur, modifié par le Décret n°2009-643",
+      "Décret n°2002-1838 du 12 août 2002 fixant le cadre général des études et examens dans les cycles préparatoires aux études d’ingénieur"
+    ]
+  },
+  "charte_management_formation": {
+    "objectifs": {
+      "mission_et_organisation": [
+        "Garantir une organisation clairement définie dans des textes statutaires",
+        "Intégrer la politique internationale et de développement durable",
+        "Assurer la mise à disposition des moyens matériels et humains nécessaires"
+      ],
+      "offre_de_formation": [
+        "Proposer une stratégie globale d’offre de formation adaptée aux besoins",
+        "Garantir une offre de formation diplômante initiale et continue",
+        "Diffuser les connaissances scientifiques et techniques vers les entreprises et la société"
+      ],
+      "organisation_et_gestion": [
+        "Représenter les parties prenantes (employeurs) dans les organes de direction",
+        "Mettre en œuvre une gouvernance forte et des processus de gestion efficaces",
+        "Organiser un système de gestion et d’information pour maîtriser les moyens et partager les connaissances"
+      ]
+    }
+  },
+  "certifications_it_suptech": [
+    "Cisco : CCNA, CCNP, CCIE, etc.",
+    "Microsoft : MCSA, MCSE, Dynamics CRM",
+    "Linux : LPIC-1, LPIC-2, LPIC-3",
+    "DevOps : DevOps Foundation",
+    "ITIL : ITIL Foundation",
+    "Oracle : MySQL, Java EE",
+    "SAP : SAP Certified Application",
+    "ISO : ISO 9001, ISO 27001, ISO 22301",
+    "CISSP : Certified Information Systems Security Professional",
+    "PMP : Project Management Professional",
+    "PRINCE2 : Projects IN Controlled Environments"
+  ],
+  "charte_competences_it": {
+    "competences_linguistiques": [
+      "Français",
+      "Anglais",
+      "Arabe",
+      "Espagnol",
+      "Allemand",
+      "Chinois (recommandés)"
+    ],
+    "competences_techniques": [
+      "Communication aisée",
+      "Travail en équipe",
+      "Esprit analytique",
+      "Sens des affaires"
+    ],
+    "referentiels_metiers": [
+      "M1803 : Direction des systèmes d’information",
+      "M1804 : Études et développement de réseaux de télécoms",
+      "M1805 : Études et développement informatique",
+      "M1806 : Conseil et maîtrise d’ouvrage en systèmes d’information"
+    ]
+  },
+  "charte_enseignant": {
+    "engagements": [
+      "Respecter les horaires des cours et assurer les séances d’encadrement",
+      "Préparer les sujets d’examen dans les délais fixés",
+      "Sensibiliser les étudiants aux conséquences de l’absentéisme",
+      "Corriger les copies d’examen et remettre les notes dans les délais",
+      "Faire preuve d’objectivité et de transparence dans l’évaluation",
+      "Mener une veille permanente pour suivre l’évolution des connaissances",
+      "Sensibiliser les étudiants au respect de la propriété intellectuelle"
+    ]
+  }
+}
