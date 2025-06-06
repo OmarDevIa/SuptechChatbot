@@ -1,6 +1,6 @@
 const express = require('express'); // Importer Express
 const app = express(); // Initialiser l'application Express
-const port = 3000; // Définir le port
+const port = process.env.PORT || 3000; // Utiliser le port du cloud ou 3000 en local
 const multer = require('multer');
 const path = require('path');
 const fs = require('fs');

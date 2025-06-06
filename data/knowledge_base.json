@@ -21,6 +21,21 @@
     "question": "Formation Suptech?",
     "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
   },
+   {
+    "categorie": "🎓 Formations",
+    "question": "je peux avoir des info sur université?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": "salut moi c?",
+    "answer": "Bonjour ! Je m’appelle Jane, je suis le chatbot pour répondre à vos questions concernant l’université Suptech. Comment puis-je vous aider ?"
+  },
+   {
+    "categorie": "🎓 Formations",
+    "question": "parle moi de université?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
     {
     "categorie": "🎓 Formations",
     "question": "formation?",
@@ -587,6 +602,16 @@
   {
     "categorie": "🏛️ Université",
     "question": "contact Suptech watsapp ?",
+    "answer": "Vous pouvez contacter Suptech par watsapp au +216 26 05 00 51 "
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": "quel est le watsapp ?",
+    "answer": "Vous pouvez contacter Suptech par watsapp au +216 26 05 00 51 "
+  },
+   {
+    "categorie": "🏛️ Université",
+    "question": "quel est le numero watsapp ?",
     "answer": "Vous pouvez contacter Suptech par watsapp au +216 26 05 00 51 "
   },
    {
