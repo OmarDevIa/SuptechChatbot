@@ -36,10 +36,30 @@
     "question": "parle moi de université?",
     "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
   },
+     {
+    "categorie": "🎓 Formations",
+    "question": "j'aimerai avoir des renseignement sur l'université suptech?",
+    "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
     {
     "categorie": "🎓 Formations",
     "question": "formation?",
     "answer": "L'université  Suptech propose des formations de Licence ( Informatique , Gestion, Droit,Management), de Mastère  ( Informatique , Gestion, Droit,Management),Cycle Préparatoire (Math,Physique,Informatique) et de Cycle Ingénieur (  Informatique et Télécommunication)."
+  },
+     {
+    "categorie": "🎓 Formations",
+    "question": "quel est la date des examen?",
+    "answer": "La date des examen vous sera fournis sur votre compte email et sur le tableaux des examens à Suptech."
+  },
+       {
+    "categorie": "🎓 Formations",
+    "question": "quel est la date de validation?",
+    "answer": "La date de validation vous sera fournis sur votre compte email et sur les tableaux d'annonces à Suptech."
+  },
+           {
+    "categorie": "🎓 Formations",
+    "question": "quel est la date de soutenance?",
+    "answer": "La date de soutenance vous sera fournis sur votre compte email et sur les tableaux d'annonces à Suptech."
   },
     {
     "categorie": "🎓 Formations",
